@@ -10,8 +10,8 @@
 @variant dark (false);
 
 :root {
-    --primary: #00be00;
-    --secondary: #ff204e;
+    --primary: #ff204e;
+    --secondary: #00be00;
     --primary-pastel: #efffee;
     /* #d8ffd7 #ff204e */
     --input: #e5e7eb;

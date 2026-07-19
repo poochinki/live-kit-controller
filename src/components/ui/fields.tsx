@@ -182,8 +182,10 @@ function FieldError({
     className,
     children,
     errors,
+    translateText = true,
     ...props
 }: React.ComponentProps<'div'> & {
+    translateText?: boolean;
     errors?: Array<{ message?: string } | undefined>;
 }) {
     const t = useTranslations();
@@ -226,7 +228,11 @@ function FieldError({
             className={cn('text-sm font-normal text-red-500', className)}
             {...props}
         >
-            {typeof content === 'string' ? t(content) : content}
+            {typeof content === 'string'
+                ? translateText
+                    ? t(content)
+                    : content
+                : content}
         </div>
     );
 }
