@@ -1,0 +1,2589 @@
+{
+    "kyc-welcome": {
+        "t": "Chào mừng bạn đến với PayME Dashboard",
+        "st": "Cám ơn bạn đã đăng ký tài khoản kinh doanh tại PayME!",
+        "q1": "Bạn là khách hàng mới và đang muốn tìm \n hiểu dịch vụ chấp nhận thanh toán PayME?",
+        "q2": "Bạn đã nhận được thanh toán và tài khoản có số dư? \nBây giờ, bạn muốn rút tiền về tài khoản ngân hàng?",
+        "m": "Chỉ còn 1 bước nữa thôi!",
+        "b1": "Thực hiện ngay",
+        "b2": "Tôi muốn tiếp tục dùng thử",
+        "n1": "Tất cả những gì chúng tôi cần là một số thông tin chi tiết về bạn \nvà bạn sẽ nhận được đầy đủ chức năng trên PayME Dashboard.",
+        "n2": "Thực hiện ngay và tận hưởng đầy đủ tiện ích của chúng tôi nào!"
+    },
+    "authenticator": {
+        "off": {
+            "title": "Ứng dụng xác thực",
+            "heading": "Ứng dụng xác thực đã được kích hoạt",
+            "desc": "Sử dụng ứng dụng xác thực để khi chuyển tiền / rút tiền",
+            "action": "Xóa liên kết ứng dụng xác thực"
+        },
+        "otp": {
+            "title": "Nhập mã xác thực",
+            "heading-general": "Nhập mã trên ứng dụng xác thực",
+            "heading-off": "Nhập mã tại ứng dụng xác thực \nđể tiến hành xóa liên kết ứng dụng",
+            "des": "Nhập 6 số trên ứng dụng xác thực",
+            "validate": "Vui lòng nhập mã xác thực",
+            "rule": "OTP phải 6 ký tự",
+            "submit": "Xác nhận"
+        },
+        "title": "Ứng dụng xác thực",
+        "welcome": {
+            "title": "Ứng dụng xác thực",
+            "heading": "Tăng cường bảo mật cho tài khoản bằng",
+            "desc": "Ứng dụng đề xuất",
+            "action": "Kích hoạt ứng dụng xác thực"
+        },
+        "verify": {
+            "title": "Quét mã QR để kết nối Ứng dụng xác thực",
+            "desc": "Mở ứng dụng trên thiết bị di động khác của bạn, \nsau đó quét mã QR bằng camera của thiết bị để nhận mã.",
+            "secret": "28B4JAWKS51FAH4",
+            "copy": "Sao chép mã",
+            "note": "Nếu bạn chưa có ứng dụng xác thực trên điện thoại, bạn cần cài đặt ngay bây giờ.",
+            "guide": "Hướng dẫn",
+            "action": "Đã hiểu, nhập mã xác nhận",
+            "or": "Hoặc",
+            "code": "Mã xác thực",
+            "guide-title": "Hướng dẫn cài đặt ứng dụng xác thực"
+        },
+        "guide": {
+            "subtitle": "Ứng dụng minh họa: Google Authenticator",
+            "heading": "Tải về và cài đặt ứng dụng \n phù hợp với thiết bị",
+            "next": "Cài đặt bằng QR code",
+            "qr-steps": {
+                "title": "Cài đặt bằng QR code",
+                "1": "Bước 1: Mở ứng dụng sau khi cài đặt",
+                "2": "Bước 2: Bấm vào icon dưới góc phải, chọn quét mã QR",
+                "3": "Bước 3: Đưa điện thoại quét mã QR",
+                "4": "Bước 4: Mã xác thực sẽ xuất hiện trên màn hình"
+            },
+            "code-steps": {
+                "title": "Cài đặt bằng mã kí tự",
+                "1": "Bước 1: Mở ứng dụng sau khi cài đặt",
+                "2": "Bước 2: Bấm vào icon dưới góc phải, Nhập khóa thiết lập",
+                "3": "Bước 3: Nhập Tên tài khoản và mã khóa",
+                "4": "Bước 4: Mã xác thực sẽ xuất hiện trên màn hình"
+            },
+            "submit": "Đã hiểu, Quay về trang xác thực"
+        }
+    },
+    "footer": {
+        "pm": "Cung cấp bởi",
+        "pci": "Bảo mật với chứng chỉ"
+    },
+    "kyc-required": {
+        "title": "Tài khoản của bạn chưa được định danh",
+        "desc": "Vui lòng định danh tài khoản trước khi sử dụng",
+        "cancel": "Để sau",
+        "submit": "Định danh ngay"
+    },
+    "kyc": {
+        "banner": {
+            "required": {
+                "title": "Định danh tài khoản",
+                "desc": "Nhấn vào đây để gửi thông tin định danh tài khoản"
+            },
+            "reject": {
+                "title": "Tài khoản chưa được định danh",
+                "desc": "Bạn cần gửi lại một số thông tin định danh để được xét duyệt."
+            },
+            "review": {
+                "title": "Tài khoản đang được xét duyệt",
+                "desc": "Chúng tôi sẽ thông báo cho bạn khi hoàn tất việc xét duyệt"
+            }
+        },
+        "step-3": {
+            "title": "Gửi thông tin định danh thành công",
+            "desc": "Thông tin định danh của bạn sẽ được thẩm định và phê duyệt trong vòng 48 giờ",
+            "close": "Đóng"
+        },
+        "wallet-info": {
+            "name": "Họ và tên",
+            "birthday": "Ngày sinh",
+            "gender": "Giới tính",
+            "cc": "Căn cước công dân / Căn cước",
+            "createdAt": "Ngày cấp"
+        },
+        "send-otp": {
+            "title": "Nhập mã xác thực đã được gửi vào email",
+            "validate": "Vui lòng nhập mã xác thực",
+            "rule": "OTP phải đủ 6 số",
+            "submit": "Xác nhận"
+        },
+        "step-2": {
+            "info": "Thông tin CCCD/CC của chủ Ví",
+            "email": {
+                "validate": "Vui lòng nhập email",
+                "rule": "Email không đúng định dạng"
+            },
+            "identifyImages": {
+                "label": "CCCD/CMND",
+                "placeholder": "Tải lên mặt trước và mặt sau của CCCD/CMND",
+                "validate": "Vui lòng tải lên mặt trước, mặt sau của CCCD/CMND"
+            },
+            "taxCertificate": {
+                "label": "Giấy tờ chứng nhận đăng ký thuế",
+                "placeholder": "Tải lên các trang chứa giấy chứng nhận đăng ký thuế của bạn",
+                "validate": "Vui lòng tải lên giấy tờ chứng nhận đăng ký thuế"
+            },
+            "licenseImages": {
+                "label": "Giấy phép kinh doanh doanh nghiệp",
+                "placeholder": "Tải lên các trang chứa thông tin giấy phép đăng ký của bạn",
+                "validate": "Vui lòng tải giấy phép kinh doanh doanh nghiệp"
+            },
+            "submit": "Tiếp tục",
+            "identify": "Xác thực Email",
+            "back": "Quay lại",
+            "send": "Gửi mã xác thực",
+            "term": "Tôi đồng ý với <link>hợp đồng cung cấp dịch vụ</link> của PayME"
+        },
+        "guide": {
+            "submit": "Đã thực hiện, kiểm tra lại",
+            "title": "Quy định thông tin đăng ký tài khoản merchant PayME",
+            "register": {
+                "1": "<highlight>Đăng ký</highlight>  <br></br>Ví điện tử PayME",
+                "2": "<highlight>Định danh (KYC)</highlight>  <br></br>trên Ví điện tử PayME",
+                "3": "<highlight>Liên kết thẻ / tài khoản</highlight>  <br></br>trên Ví điện tử PayME"
+            },
+            "des": {
+                "title": "Số điện thoại chưa đăng ký tài khoản Ví điện tử PayME.",
+                "1": "Mở CH Play / Apple Store để tải ứng dụng Ví PayME",
+                "2": "Đăng ký tài khoản Ví điện tử & thực hiện định danh và liên kết ngân hàng."
+            },
+            "steps": {
+                "download": "Tải ứng dụng trên <br></br>Google Play hoặc Apple store",
+                "register": "Đăng ký tài khoản",
+                "kyc": "Xác thực tài khoản",
+                "loginPhone": "Đăng nhập bằng <br></br>số điện thoại đã đăng ký",
+                "login": "Đăng nhập",
+                "linkBank": "Liên kết tài khoản <br></br> thẻ ngân hàng"
+            },
+            "hotline": "Liên hệ hotline <link>{hotline}</link> để được hướng dẫn"
+        },
+        "steps": {
+            "step-1": "Mô hình kinh doanh",
+            "step-1-desc": "Loại hình, ngành nghề...",
+            "step-2": "Thông tin định danh",
+            "step-2-desc": "CCCD, giấy phép kinh doanh",
+            "step-3": "Hoàn tất",
+            "step-3-desc": "Kiểm tra và gửi hồ sơ"
+        },
+        "title": "Gửi thông tin định danh",
+        "step-1": {
+            "guide": "Hướng dẫn",
+            "guide-title": "Quy định thông tin đăng ký tài khoản merchant PayME",
+            "loading": "Đang kiểm tra, vui lòng đợi...",
+            "case": {
+                "1": "Số điện thoại chưa đăng ký tài khoản Ví điện tử PayME.",
+                "2": "Số điện thoại chưa thực hiện định danh tài khoản & liên kết ngân hàng.",
+                "3": "Số điện thoại chưa liên kết ngân hàng vào ví điện tử PayME"
+            },
+
+            "empty": "Không có dữ liệu",
+            "type": {
+                "label": "Loại hình kinh doanh",
+                "INDIVIDUAL": "Cá nhân",
+                "BUSINESS_HOUSEHOLDS": "Hộ kinh doanh",
+                "ENTERPRISE": "Công ty TNHH",
+                "ENTERPRISE1": "Công ty cổ phần",
+                "placeholder": "Chọn loại hình kinh doanh",
+                "validate": "Vui lòng chọn loại hình kinh doanh"
+            },
+            "brandName": {
+                "label": "Tên hiển thị khi giao dịch",
+                "placeholder": "Nhập tên hiển thị",
+                "validate": "Vui lòng nhập tên hiển thị"
+            },
+            "phone": {
+                "label": "Số điện thoại",
+                "placeholder": "Nhập số điện thoại",
+                "validate": "Vui lòng nhập số điện thoại",
+                "rule": "Số điện thoại không đúng định dạng"
+            },
+            "categoryName": {
+                "label": "Ngành nghề kinh doanh",
+                "placeholder": "Nhập ngành nghề kinh doanh",
+                "validate": "Vui lòng nhập ngành nghề kinh doanh"
+            },
+            "products": {
+                "label": "Mô tả kinh doanh",
+                "placeholder": "Nhập mô tả kinh doanh",
+                "validate": "Vui lòng nhập mô tả kinh doanh"
+            },
+            "connectionType": {
+                "label": "Hình thức kinh doanh",
+                "ONLINE": {
+                    "placeholder": "Nhập link web hoặc kênh bán hàng",
+                    "validate": "URL chưa đúng định dạng"
+                },
+                "OFFLINE": {
+                    "placeholder": "Nhập địa chỉ cửa hàng",
+                    "validate": "Vui lòng nhập địa chỉ cửa hàng"
+                }
+            },
+            "submit": "Tiếp tục",
+            "cancel": "Đóng"
+        }
+    },
+
+    "technical": {
+        "update": "Cập nhật kết nối",
+        "edit": "Cập nhật",
+        "upsert": {
+            "title": "Tạo kết nối API",
+            "create-btn": "Tạo ngay",
+            "des": "Bạn cần tạo kết nối API để có thể bắt đầu tích hợp chức năng",
+            "tip": "Tạo cặp Private/Public key <link>tại đây</link> với key size 512 bits",
+            "config": "Kết nối nâng cao bao gồm api thanh toán và chi hộ",
+            "create": "Tạo kết nối",
+            "update": "Cập nhật",
+            "rule": "URL chưa đúng định dạng",
+            "placeholder": "https://example.com",
+            "cancel": "Huỷ",
+            "endpoint": {
+                "placeholder": "Nhập API endpoint",
+                "validate": "Vui lòng nhập API endpoint"
+            },
+            "public": {
+                "placeholder": "Nhập Public Key",
+                "validate": "Vui lòng nhập Public Key"
+            }
+        },
+        "payment": "Tích hợp cơ bản",
+        "payout": "Tích hợp nâng cao",
+        "sdk": "Tích hợp SDK Ví",
+        "doc": "Tài liệu",
+        "not-changed": "Không có thay đổi cần cập nhật",
+        "rule": "URL chưa đúng định dạng",
+        "submit": "Lưu thay đổi",
+        "endpoint-validate": "Vui lòng nhập API endpoint",
+        "mc": "Nhập Merchant Publickey",
+        "placeholder": "https://example.com",
+        "payout-tip": "Kết nối nâng cao bao gồm api thanh toán và chi hộ.",
+        "pm-tip-1": "Kết nối chuẩn checksum",
+        "pm-tip-2": "Kết nối cơ bản chỉ gọi thanh toán"
+    },
+    "telegram": {
+        "payout": "Chi hộ",
+        "balance": "Biến động số dư",
+        "payment": "Giao dịch thành công",
+        "label": "Loại thông báo nhận",
+        "placeholder": "Chọn loại thông báo nhận",
+        "validate": "Vui lòng chọn loại thông báo",
+        "link": "Kết nối telegram",
+        "update": "Cập nhật",
+        "cancel": "Huỷ liên kết",
+        "close": "Đóng",
+        "empty": "Không có dữ liệu",
+        "des": "Thiết lập kết nối telegram để nhận thông báo tiện lợi và nhanh hơn."
+    },
+    "bank-linking": {
+        "number": "Số tài khoản",
+        "name": "Tên hiển thị",
+        "bank": "Ngân hàng",
+        "status": "Trạng thái",
+        "des": "Đây là dịch vụ thu hộ của PayME giúp bạn nhận tiền chuyển khoản từ bất kỳ ngân hàng nào. Số dư tài khoản PayME của bạn sẽ được ghi có ngay khi tiền được chuyển vào tài khoản này thành công.",
+        "tip": "(*) Lưu ý: Đây là số tài khoản của PayME không phải là số tài khoản thật của bạn tại Ngân hàng.",
+        "submit": "Đồng ý liên kết",
+        "cancel": "Huỷ liên kết",
+        "true": "Đã liên kết",
+        "false": "Chưa liên kết",
+        "close": "Đóng",
+        "pass": "Xác nhận mật khẩu"
+    },
+    "shift": {
+        "title": "Bật tính năng chốt ca",
+        "true": "Đang bật",
+        "false": "Đang tắt"
+    },
+    "payment-method": {
+        "visa": "Thẻ Visa",
+        "mastercard": "Thẻ Master",
+        "jcb": "Thẻ JCB",
+        "amex": "Thẻ American Express",
+        "unionpay": "UnionPay",
+        "discover": "Discover",
+        "vietqrGlobal": "VietQR Global",
+        "vietqrPay": "VietQR Pay",
+        "napas": "Napas"
+    },
+    "payment-setting": {
+        "preview": {
+            "method": "Phương thức thanh toán",
+            "amount": "Số tiền thanh toán",
+            "note": "Ghi chú",
+            "submit": "Thanh toán",
+            "payment": "Thanh toán qua PayME"
+        },
+        "request": {
+            "title": "Bạn muốn mở phương thức thanh toán mới?",
+            "des": "Vui lòng liên hệ CSKH 1900.88.66.65 hoặc gửi thông tin để PayME hỗ trợ bạn.",
+            "submit": "Gửi hỗ trợ",
+            "cancel": "Huỷ"
+        },
+        "method": {
+            "request": "Gửi yêu cầu",
+            "title": "Quản lý phương thức thanh toán",
+            "des": "Chúng tôi cung cấp nhiều phương thức thanh toán. Trong đó, một số phương thức đã được thiết lập mặc định, một số khác cần phải được phê duyệt. Gửi yêu cầu phê duyệt đến chúng tôi để kích hoạt các phương thức thanh toán không sẵn có.",
+            "group": {
+                "DOMESTIC": "Nội địa",
+                "CARD": "Thẻ thanh toán",
+                "WALLET": "Ví",
+                "INTERNATIONAL": "Quốc tế"
+            },
+            "cols": {
+                "type": "Loại",
+                "fee": "Phí giao dịch",
+                "range": "Hạn mức",
+                "state": "Trạng thái"
+            },
+            "free": "Miễn phí",
+            "min": "Tối thiểu: {amount}",
+            "max": "Tối đa: {amount}",
+            "PENDING": "Đang chờ duyệt",
+            "resend-active": "Gửi lại yêu cầu kích hoạt"
+        },
+        "info": {
+            "customize_title": "Cá nhân hoá tài khoản",
+            "brand_logo": "Logo thương hiệu",
+            "change_logo": "Đổi Logo",
+            "max_size": "Dung lượng tối đa: 1MB",
+            "min_dimension": "Chọn ảnh với kích thước tối thiểu 256x256 px.",
+            "bg_color": "Màu nền",
+            "color-pick": "Chọn màu nền",
+            "color_hint": "Chọn màu nền cho thương hiệu của bạn.",
+            "default_lang": "Ngôn ngữ mặc định",
+            "lang-pick": "Chọn ngôn ngữ",
+            "lang": {
+                "vi": "Tiếng việt",
+                "en": "English"
+            },
+            "empty": "Không có dữ liệu",
+            "lang_hint": "Ngôn ngữ mặc định sẽ được dùng cho trang Thanh toán nếu khách hàng không chọn ngôn ngữ của họ.",
+            "note_change": "(*) Thay đổi có thể ảnh hưởng đến các trang Thanh toán, PayME Link & PayME Page.",
+            "save": "Lưu",
+            "preview": "Xem trước",
+            "payment_amount": "Số tiền thanh toán",
+            "payment_note": "Ghi chú",
+            "payment_note_val": "Thanh toán qua PayME",
+            "payment_method": "Phương thức thanh toán",
+            "pay_now": "Thanh toán"
+        }
+    },
+    "business-type": {
+        "INDIVIDUAL": "Cá nhân",
+        "ENTERPRISE": "Doanh nghiệp"
+    },
+    "account": {
+        "required-title": "Tài khoản chưa được định danh",
+        "review-title": "Tài khoản đang được xét duyệt",
+        "reject-title": "Tài khoản không được xét duyệt",
+        "update": "Cập nhật thông tin định danh",
+        "upsert-email": {
+            "email": {
+                "label": "Email",
+                "placeholder": "example@gmail.com",
+                "validate": "Vui lòng nhập email",
+                "rule": "Email không đúng định dạng"
+            },
+            "submit": "Xác nhận",
+            "cancel": "Huỷ"
+        },
+        "name-title": "Đặt tên tài khoản",
+        "email-title": "Thiết lập email",
+        "upsert-name": {
+            "name": {
+                "label": "Tên tài khoản",
+                "placeholder": "Nhập tên tài khoản",
+                "validate": "Vui lòng nhập tên tài khoản"
+            },
+            "tip": "Bạn và nhóm sẽ nhìn thấy tên tài khoản của bạn trên dashboard",
+            "submit": "Xác nhận",
+            "cancel": "Huỷ"
+        },
+        "not-kyc": {
+            "start_verify": "Bắt đầu xác minh",
+            "learn_more": "Tìm hiểu thêm",
+            "step_create_acc": "1. Tạo tài khoản",
+            "status_completed": "Đã hoàn tất",
+            "step_verify_info": "2. Gửi thông tin",
+            "status_unverified": "Chưa hoàn thành",
+            "step_activate_acc": "3. Xác thực tài khoản",
+            "status_not_done": "Đang kiểm tra",
+            "review": {
+                "title": "Đang xác thực tài khoản",
+                "desc": "Tài khoản đang được xác thực và có thể sử dụng toàn bộ tính năng của PayME."
+            },
+            "required": {
+                "title": "Xác minh tài khoản để kích hoạt",
+                "desc": "Hoàn tất xác minh để mở khóa thanh toán, nhận tiền và sử dụng đầy đủ các tính năng của PayME."
+            }
+        },
+        "tur": {
+            "title": "Tài liệu & Hướng dẫn",
+            "contractUrl": "Hợp đồng sử dụng dịch vụ với PayME",
+            "guidePosUrl": "Hướng dẫn sử dụng ứng dụng PayME POS",
+            "guideDashboardUrl": "Hướng dẫn sử dụng trang quản lý giao dịch",
+            "technicalIntegrationUrl": "Tài liệu kết nối kĩ thuật"
+        },
+        "info": {
+            "username": "Tên tài khoản",
+            "email": "Email",
+            "phone": "Số điện thoại (Tài khoản mặc định)",
+            "role": "Nhóm quyền"
+        },
+        "kyc": {
+            "name": "Tên đăng ký trên giấy tờ",
+            "type": "Loại hình kinh doanh",
+            "display": "Tên hiển thị khi giao dịch",
+            "job": "Ngành nghề kinh doanh",
+            "revenue": "Doanh thu trung bình 1 tháng"
+        },
+        "kyc-title": "Thông tin định danh",
+        "info-title": "Thông tin cá nhân",
+        "verify": "Đã xác thực",
+        "parnert-code": "Mã đối tác",
+        "type": "Loại hình kinh doanh",
+        "job": "Nghành nghề kinh doanh",
+        "revenue": "Doanh thu trung bình 1 tháng"
+    },
+    "role": {
+        "duplicate": {
+            "des": "Bạn chắc chắn muốn tạo nhóm quyền mới từ  ",
+            "cancel": "Huỷ",
+            "submit": "Đồng ý"
+        },
+        "delete": {
+            "des": "Bạn chắc chắn muốn xoá nhóm quyền ",
+            "cancel": "Huỷ",
+            "submit": "Đồng ý"
+        },
+        "upsert": {
+            "name": {
+                "label": "Tên nhóm quyền",
+                "placeholder": "Nhập tên nhóm quyền",
+                "validate": "Vui lòng nhập tên nhóm quyền"
+            },
+            "des": {
+                "label": "Mô tả",
+                "placeholder": "Nhập mô tả"
+            },
+            "role": "Quyền hạn",
+            "create": "Thêm nhóm quyền",
+            "update": "Cập nhật nhóm quyền",
+            "loading": "Đang tải scopes...",
+            "tab": {
+                "email": "E-mail",
+                "noti": "Thông báo",
+                "operate": "Vận hành"
+            },
+            "all": "Tất cả"
+        },
+        "create": "Thêm nhóm quyền",
+        "cols": {
+            "group": "Nhóm quyền",
+            "des": "Mô tả",
+            "creator": "Người tạo",
+            "created": "Thời gian tạo",
+            "state": "Trạng thái",
+            "action": "Thao tác",
+            "duplicate": "Nhân bản",
+            "update": "Cập nhật nhóm quyền",
+            "delete": "Xoá nhóm quyền",
+            "dup-title": "Nhân bản nhóm quyền"
+        }
+    },
+    "member": {
+        "delete": {
+            "des": "Bạn chắc chắn muốn xoá thành viên ",
+            "cancel": "Huỷ",
+            "submit": "Đồng ý"
+        },
+        "create": "Thêm thành viên",
+        "upsert": {
+            "empty": "Không có dữ liệu",
+            "bankAccount": {
+                "label": "Tài khoản NH liên kết",
+                "add": "Thêm tài khoản liên kết"
+            },
+            "username": {
+                "label": "Tên tài khoản",
+                "placeholder": "Tài khoản đăng nhập",
+                "validate": "Vui lòng nhập tài khoản đăng nhập"
+            },
+            "phone": {
+                "label": "Số điện thoại",
+                "placeholder": "Nhập số điện thoại",
+                "rule": "Số điện thoại không đúng định dạng"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "example@gmail.com",
+                "rule": "Email không đúng định dạng"
+            },
+            "fullname": {
+                "label": "Họ và tên",
+                "placeholder": "Nhập họ và tên",
+                "validate": "Vui lòng nhập họ và tên"
+            },
+            "password": {
+                "label": "Mật khẩu",
+                "placeholder": "Nhập hoặc random mật khẩu",
+                "validate": "Vui lòng nhập mật khẩu",
+                "action": "Tạo mật khẩu ngẫu nhiên",
+                "rule": "Mật khẩu phải từ 8-20 ký tự, có ít nhất 1 ký tự viết hoa, 1 ký tự số, 1 ký tự đặc biệt"
+            },
+            "role": {
+                "label": "Nhóm quyền",
+                "placeholder": "Chọn quyền",
+                "validate": "Vui lòng chọn nhóm quyền"
+            },
+            "manager": {
+                "label": "Quản lý trực tiếp",
+                "placeholder": "Chọn quản lý trực tiếp",
+                "validate": "Vui lòng chọn quản lý trực tiếp"
+            },
+            "submit": "Xác nhận"
+        },
+        "cols": {
+            "role": "Nhóm quyền",
+            "name": "Họ và tên",
+            "user": "Tên tài khoản",
+            "phone": "Số điện thoại",
+            "email": "Email",
+            "mgr": "Quản lý trực tiếp",
+            "act": "Hoạt động",
+            "op": "Thao tác",
+            "update": "Cập nhật thông tin thành viên",
+            "delete": "Xoá thành viên"
+        }
+    },
+    "account-tab": {
+        "member": "Quản lý thành viên",
+        "role": "Quản lý nhóm quyền"
+    },
+    "setting": {
+        "account": {
+            "group": "Tài khoản",
+            "title": "Định danh tài khoản",
+            "description": "Xác thực giấy tờ đăng ký tài khoản."
+        },
+        "member": {
+            "title": "Danh sách thành viên",
+            "description": "Quản lý các thành viên đăng nhập."
+        },
+        "shift": {
+            "title": "Giao dịch theo ca",
+            "description": "Bật tính năng chốt ca khi sử dụng PayME POS."
+        },
+        "payment": {
+            "group": "Thanh toán",
+            "title": "Cài đặt thanh toán",
+            "description": "Thiết lập giao diện và phương thức thanh toán."
+        },
+        "receiving": {
+            "title": "Tài khoản nhận tiền",
+            "description": "Tài khoản ngân hàng dùng để nhận tiền hộ."
+        },
+        "technical": {
+            "group": "Kỹ thuật",
+            "title": "Tích hợp kỹ thuật",
+            "description": "Tài liệu hướng dẫn tích hợp API, SDK, Webhook."
+        },
+        "emailSms": {
+            "group": "Thông báo",
+            "title": "Quản lý Email/SMS",
+            "description": "Quản lý lượt gửi Email/SMS cho khách hàng."
+        },
+        "soft": {
+            "title": "Soft OTP",
+            "description": "Kích hoạt phương thức Soft OTP để giao dịch nhanh chóng và bảo mật."
+        },
+        "telegram": {
+            "title": "Kết nối telegram",
+            "description": "Thiết lập kết nối telegram để nhận thông báo tiện lợi và nhanh hơn."
+        },
+        "auth": {
+            "title": "Ứng dụng xác thực",
+            "description": "Sử dụng ứng dụng xác thực khi thực hiện giao dịch chuyển tiền/rút tiền"
+        }
+    },
+    "email-sms": {
+        "filter": {
+            "time": "Khoảng thời gian",
+            "name": "Tên khách hàng",
+            "email": {
+                "label": "Email khách hàng",
+                "validate": "Email không đúng định dạng"
+            },
+            "phone": {
+                "label": "SĐT khách hàng",
+                "validate": "Số điện thoại không hợp lệ"
+            },
+            "submit": "Tìm kiếm"
+        },
+        "used": "Số lượt email/sms đã sử dụng",
+        "title": "Lịch sử gửi Email/ SMS",
+        "buy": "Mua lượt Email/SMS",
+        "cols": {
+            "sentTime": "Thời gian gửi",
+            "customerName": "Tên khách hàng",
+            "email": "Địa chỉ email",
+            "phoneNumber": "Số điện thoại",
+            "type": "Loại"
+        }
+    },
+    "sett": {
+        "fee": {
+            "btn": "Phí và thời gian đối soát",
+            "des": "Các giao dịch nhận thanh toán thành công sẽ được tự động ghi có vào tài khoản của bạn sau khi trừ đi phí giao dịch tùy theo phương thức thanh toán.",
+            "tip": "(*)T là ngày thực hiện giao dịch nhận thanh toán thành công",
+            "cols": {
+                "name": "Tên phương thức",
+                "fee": "Phí đối soát",
+                "sett": "Đối soát"
+            },
+            "free": "Miễn phí",
+            "close": "Đóng"
+        },
+        "report": {
+            "today": "Doanh thu hôm nay",
+            "checking": "Doanh thu đang chờ đối soát",
+            "checked": "Doanh thu đã đối soát"
+        },
+        "title": "Đối soát",
+        "filter": {
+            "id": "Mã đối soát",
+            "time": "Khoảng thời gian",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "time": "Ngày đối soát",
+            "id": "Mã đối soát",
+            "success": "Giao dịch thành công",
+            "revenue": "Doanh thu đối soát",
+            "refund": "Giao dịch hoàn",
+            "amount": "Tiền hoàn",
+            "fee": "Phí đối soát",
+            "receive": "Số tiền nhận",
+            "state": "Trạng thái"
+        }
+    },
+    "report": {
+        "stat": {
+            "success": "Giao dịch thành công",
+            "failed": "Giao dịch thất bại",
+            "refund": "Giao dịch hoàn",
+            "total": "Tổng doanh thu"
+        },
+        "filter": {
+            "empty": "Không có dữ liệu",
+            "method": {
+                "label": "Phương thức thanh toán",
+                "placeholder": "Chọn phương thức thanh toán"
+            },
+            "state": {
+                "label": "Trạng thái thanh toán",
+                "placeholder": "Chọn trạng thái thanh toán"
+            },
+            "time": "Thời gian giao dịch",
+            "submit": "Tìm kiếm"
+        },
+        "title": "Thống kê",
+        "cols": {
+            "account": "Tài khoản giao dịch",
+            "success": "Giao dịch thành công",
+            "failed": "Giao dịch thất bại",
+            "refund": "Giao dịch hoàn",
+            "total": "Tổng doanh thu"
+        }
+    },
+    "customer-group": {
+        "add": "Thêm nhóm khách hàng",
+        "cols": {
+            "name": "Tên nhóm khách hàng",
+            "number": "Số khách hàng",
+            "update": "Cập nhật nhóm khách hàng"
+        }
+    },
+    "customer": {
+        "add": "Thêm khách hàng",
+        "filter": {
+            "id": "Mã khách hàng/STK",
+            "phone": "Email/SĐT",
+            "name": "Tên khách hàng",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "index": "STT",
+            "customerCode": "Mã khách hàng",
+            "customerName": "Tên khách hàng",
+            "accountNumber": "Số tài khoản",
+            "bank": "Ngân hàng",
+            "qrCode": "Mã QR",
+            "email": "Email",
+            "phoneNumber": "Số điện thoại",
+            "address": "Địa chỉ",
+            "group": "Nhóm khách hàng",
+            "state": "Trạng thái",
+            "action": "Thao tác",
+            "update": "Cập nhật khách hàng",
+            "qr": "Thông tin mã QR"
+        },
+        "navs": {
+            "customer": "Khách hàng",
+            "group": "Nhóm khách hàng"
+        }
+    },
+    "qr": {
+        "view": {
+            "info": "Thông tin chuyển khoản",
+            "print": "In mã QR",
+            "save": "Lưu ảnh",
+            "branch": "Chi nhánh",
+            "name": "Tên tài khoản",
+            "number": "Số tài khoản",
+            "bank": "Ngân hàng"
+        },
+        "detail": {
+            "ter-update": "Cập nhật tên quầy",
+            "acc-update": "Cập nhật tên hiển thị",
+            "displayName": "Tên hiển thị",
+            "counterName": "Tên quầy",
+            "username": "Tài khoản đăng nhập",
+            "qrCode": "Mã QR",
+            "submit": "Lưu thay đổi"
+        },
+        "create": {
+            "title": "Tạo mã QR",
+            "typeQR": {
+                "label": "Loại QR",
+                "VIETQR": "QR chuyển khoản",
+                "VIETQR_GLOBAL": "VietQR Payment 2.0"
+            },
+            "accountName": {
+                "label": "Tên hiển thị",
+                "placeholder": "Nhập tên hiển thị",
+                "validate": "Vui lòng nhập tên hiển thị",
+                "rule": "Chỉ cho phép A-Z (viết hoa), 0-9, và _ (không bao gồm chữ có dấu)"
+            },
+            "accountId": {
+                "label": "Tài khoản đăng nhập",
+                "placeholder": "Chọn tài khoản đăng nhập",
+                "validate": "Vui lòng chọn tài khoản đăng nhập"
+            },
+            "terminalName": {
+                "label": "Tên quầy",
+                "placeholder": "Nhập tên quầy",
+                "validate": "Vui lòng nhập tên quầy"
+            },
+            "empty": "Không có dữ liệu",
+            "submit": "Khởi tạo",
+            "cancel": "Huỷ",
+            "update": "Cập nhật"
+        },
+        "title": "Mã QR",
+        "state": {
+            "true": "Đang hoạt động",
+            "false": "Ngừng hoạt động"
+        },
+        "cols": {
+            "qrCode": "Mã QR",
+            "qrType": "Loại QR",
+            "displayName": "Tên hiển thị",
+            "username": "Tài khoản đăng nhập",
+            "status": "Trạng thái",
+            "info": "Thông tin mã QR"
+        }
+    },
+    "link": {
+        "detail": {
+            "des": "Mô tả",
+            "status": "Trạng thái",
+            "amount": "Số tiền",
+            "link": "Liên kết",
+            "creator": "Tạo bởi",
+            "created": "Thời gian tạo",
+            "expired": "Hết hạn lúc"
+        },
+        "pick-group": {
+            "placeholder": "Chọn nhóm nhóm khách hàng",
+            "empty": "Không có dữ liệu"
+        },
+        "pick-customer": {
+            "add": "Thêm khách hàng",
+            "placeholder": "Chọn hoặc thêm khách hàng mới",
+            "empty": "Không có dữ liệu",
+            "cols": {
+                "name": "Họ tên",
+                "phone": "Số điện thoại"
+            },
+            "empty-email": "Chưa có email",
+            "empty-phone": "Chưa có SĐT"
+        },
+        "buy-sending": {
+            "email-remaining": "Lượt gửi Email còn lại",
+            "sms-remaining": "Lượt gửi SMS còn lại",
+            "buy": "Mua thêm lượt gửi Email/SMS",
+            "option": {
+                "EMAIL": "Mua Email",
+                "SMS": "Mua SMS"
+            },
+            "EMAIL": {
+                "placeholder": "Nhập số lượng Email",
+                "validate": "Vui lòng nhập số lượng Email"
+            },
+            "SMS": {
+                "placeholder": "Nhập số lượng SMS",
+                "validate": "Vui lòng nhập số lượng SMS"
+            },
+            "total": "Tổng thanh toán",
+            "submit": "Mua ngay"
+        },
+        "sending": {
+            "title": "Gửi link thanh toán qua Email/SMS",
+            "des": "Bạn có thể gửi link thanh toán cho khách hàng qua Email và SMS",
+            "destination": {
+                "label": "Gửi cho",
+                "INDIVIDUAL": "Khách hàng",
+                "GROUP": "Nhóm khách hàng"
+            },
+            "empty": "Không có dữ liệu",
+            "info": {
+                "label": "Thông tin người nhận",
+                "validate": {
+                    "customer": "Vui lòng chọn khách khàng",
+                    "group": "Vui lòng chọn nhóm"
+                }
+            },
+            "type": {
+                "label": "Hình thức gửi",
+                "validate": "Vui lòng chọn hình thức gửi",
+                "tip": "(*) Sẽ sử dụng {email} lượt Email, {sms} lượt SMS từ gói của bạn",
+                "count": "Lượt gửi hiện tại :",
+                "add": "Thêm lượt",
+                "add-title": "Quản lý Email/SMS"
+            },
+            "submit": "Gửi"
+        },
+        "share": {
+            "address": "Địa chỉ url để thanh toán",
+            "qr": "Quét mã QR để thanh toán",
+            "payment": "Thanh toán"
+        },
+        "info": {
+            "fullname": "Họ tên",
+            "phone": "Điện thoại",
+            "shippingAddress": "Địa chỉ",
+            "email": "Email"
+        },
+        "create": {
+            "title": "Tạo PayMe Link",
+            "convert": "Chuyển đổi tỉ giá",
+            "amount": {
+                "label": "Số tiền",
+                "placeholder": "Nhập số tiền",
+                "validate": "Vui lòng nhập số tiền",
+                "rule": "Số tiền tối thiểu là 10,000đ"
+            },
+
+            "rate": {
+                "title": "Tỉ giá",
+                "amount": {
+                    "label": "Số tiền",
+                    "placeholder": "Nhập số tiền",
+                    "validate": "Vui lòng nhập số tiền",
+                    "close": "Đóng",
+                    "submit": "Đồng ý"
+                }
+            },
+            "des": {
+                "label": "Mô tả",
+                "placeholder": "Nhập ghi chú/Mã đơn hàng",
+                "validate": "Vui lòng nhập mô tả"
+            },
+            "empty": "Không có dữ liệu",
+            "att": {
+                "label": "Đính kèm file",
+                "placeholder": "Tải file lên",
+                "tip": "Chấp nhận định dạng (docx, pdf, jpg, png, xlsx)"
+            },
+            "expired": {
+                "label": "Thời hạn thanh toán",
+                "placeholder": "Chọn thời hạn thanh toán",
+                "TENMINUTES": "10 phút",
+                "ONEHOUR": "1 giờ",
+                "HALFOFDAY": "12 giờ",
+                "ONEDAY": "1 ngày",
+                "SEVENDAYS": "7 ngày",
+                "ONEMONTH": "1 tháng",
+                "NO_EXPIRE": "Không hết hạn"
+            },
+            "info": {
+                "label": "Thông tin khách hàng",
+                "NONE": "Không yêu cầu",
+                "AVAILABLE": "Nhập sẵn",
+                "COLLECT": "Yêu cầu khách nhập"
+            },
+            "submit": "Khởi tạo",
+            "cancel": "Đóng"
+        },
+        "filter": {
+            "time": "Khoảng thời gian",
+            "empty": "Không có dữ liệu",
+            "state": {
+                "label": "Trạng thái PayME Link",
+                "placeholder": "Chọn trạng thái"
+            },
+            "id": "Mã PayME Link",
+            "phone": {
+                "label": "SĐT khách hàng",
+                "validate": "Số điện thoại không hợp lệ"
+            },
+            "email": {
+                "label": "Email khách hàng",
+                "validate": "Email không đúng định dạng"
+            },
+            "des": "Mô tả",
+            "submit": "Tìm kiếm"
+        },
+        "state": {
+            "CREATED": "Mới tạo",
+            "PAID": "Thành công",
+            "EXPIRED": "Hết hạn"
+        },
+        "title": "PayME Link",
+        "cols": {
+            "time": "Thời gian tạo",
+            "id": "Mã PayME Link",
+            "amount": "Số tiền",
+            "customer": "Khách hàng",
+            "att": "Đính kèm file",
+            "email": "Email/Sms",
+            "link": "PayME Link",
+            "state": "Trạng thái",
+            "view": "Xem file",
+            "send": "Gửi",
+            "share": "Chia sẻ PayME Link"
+        }
+    },
+    "product-upsert": {
+        "validate": {
+            "attributes": "Vui lòng tạo thuộc tính",
+            "variants": "Vui lòng tạo biến thể"
+        },
+        "col-attachments": {
+            "placeholder": "Chọn đính kèm",
+            "submit": "Lưu thay đổi",
+            "cancel": "Huỷ",
+            "empty": "Không có dữ liệu"
+        },
+        "attachments": {
+            "name": {
+                "label": "Tên đính kèm",
+                "placeholder": "Nhập tên đính kèm",
+                "validate": "Bắt buộc"
+            },
+            "price": {
+                "label": "Giá đính kèm",
+                "placeholder": "Nhập giá đính kèm",
+                "validate": "Bắt buộc"
+            },
+            "submit": "Áp dụng",
+            "cancel": "Huỷ",
+            "duplicate": "Đính kèm {name} bị trùng",
+            "empty": "Không có đính kèm có sẵn",
+            "add": "Thêm đính kèm",
+            "cancel-add": "Huỷ thêm đính kèm",
+            "create": "Tạo đính kèm",
+            "tip": "Áp dụng toàn bộ đính kèm có sẵn cho toàn bộ biến thể"
+        },
+        "upload": "Tải ảnh",
+        "quantity-update": {
+            "placeholder": "Nhập số lượng",
+            "validate": "Vui lòng nhập số lượng",
+            "submit": "Lưu",
+            "all": "Cập nhật số lượng cho tất cả biến thể",
+            "cancel": "Huỷ"
+        },
+        "price-update": {
+            "placeholder": "Nhập giá tiền",
+            "validate": "Vui lòng nhập giá tiền",
+            "submit": "Lưu",
+            "all": "Cập nhật giá cho tất cả biến thể",
+            "cancel": "Huỷ"
+        },
+
+        "variant": {
+            "title": "Bảng biến thể",
+            "price": "Giá",
+            "quantity": "Số lượng",
+            "attach": "Đính kèm",
+            "img": "Hình",
+            "update": {
+                "price": "Cập nhật giá",
+                "quantity": "Cập nhật số lượng",
+                "att": "Cập nhật đính kèm",
+                "sku": "Cập nhật sku"
+            },
+            "sku": {
+                "label": "Thêm SKU",
+                "placeholder": "Nhập mã sku",
+                "validate": "Mã SKU là bắt buộc",
+                "cancel": "Huỷ",
+                "create": "Tạo SKU",
+                "tip": "Áp dụng SKU cho toàn bộ biến thể",
+                "code": "Mã SKU",
+                "update": "Cập nhật SKU",
+                "rule": "SKU chỉ cho phép chữ cái viết hoa, và chữ số"
+            }
+        },
+        "attribute-dnd": {
+            "sort": "Sắp xếp",
+            "att": "Thuộc tính",
+            "value": "Giá trị thuộc tính",
+            "action": "Thao tác",
+            "title": "Cập nhật thuộc tính",
+            "submit": "Tạo biến thể",
+            "tip": "Áp dụng những thông tin về thuộc tính xuống bảng biến thể"
+        },
+        "attribute-upsert": {
+            "submit": "Tạo thuộc tính",
+            "update": "Cập nhật",
+            "name": {
+                "label": "Thuộc tính",
+                "placeholder": "Ví dụ: Size, màu sắc...",
+                "validate": "Vui lòng nhập thuộc tính",
+                "rule": "Thuộc tính {name} bị trùng"
+            },
+            "value": {
+                "label": "Giá trị thuộc tính",
+                "placeholder": "Ví dụ: S, M, L, trắng, đỏ...",
+                "validate": "Vui lòng nhập giá trị thuộc tính",
+                "rule": "Giá trị thuộc tính <{value}> bị trùng",
+                "add": "Thêm giá trị",
+                "update": "Cập nhật giá trị",
+                "cancel": "Huỷ"
+            }
+        },
+        "attribute": {
+            "title": "Thuộc tính",
+            "tip": "Một sản phẩm/ dịch vụ có thể có nhiều thuộc tính. Ví dụ: màu sắc, size..."
+        },
+        "cancel": "Huỷ",
+        "submit": "Xác nhận",
+        "general": {
+            "title": "Thông tin chung",
+            "name": {
+                "label": "Tên sản phẩm/dịch vụ",
+                "placeholder": "Nhập tên sản phẩm/dịch vụ",
+                "validate": "Vui lòng nhập tên sản phẩm/dịch vụ"
+            },
+            "des": {
+                "label": "Mô tả",
+                "placeholder": "Nhập mô tả sản phẩm/dịch vụ"
+            },
+            "detail": {
+                "label": "Mô tả sản phẩm",
+                "placeholder": "Nhập mô tả chi tiết"
+            },
+            "img": {
+                "label": "Hình ảnh sản phẩm",
+                "tip": "Hình ảnh với tỷ lệ 1:1 sẽ giúp Người mua xem sản phẩm một cách trực quan hơn.",
+                "validate": "Vui lòng tải hình ảnh"
+            },
+            "price": {
+                "label": "Giá bán",
+                "placeholder": "Nhập giá bán",
+                "validate": "Vui lòng nhập giá bán",
+                "min": "Dựa trên giá bán thấp nhất trong các biến thể",
+                "max": "Giá bán cao nhất của biến thể + giá bán cao nhất trong toàn bộ đính kèm"
+            },
+            "originalPrice": {
+                "label": "Giá trước giảm",
+                "placeholder": "Nhập giá trước giảm",
+                "rule": "Phải lớn hơn giá bán",
+                "tip": "Giá giảm tối thiểu phải lớn hơn giá bán tối thiểu và nhỏ hơn giá giảm tối đa, giá giảm tối đa phải lớn hơn giá bán tối thiểu",
+                "min": {
+                    "placeholder": "Giá giảm tối thiểu",
+                    "validate": "Vui lòng nhập giá giảm tối thiểu",
+                    "rule": "Phải lớn hơn giá bán tối thiểu"
+                },
+                "max": {
+                    "placeholder": "Giá giảm tối đa",
+                    "validate": "Vui lòng nhập giá giảm tối đa",
+                    "rule": "Phải lớn hơn giá bán tối đa",
+                    "grate": "Phải lớn hơn giá giảm tối thiểu"
+                }
+            },
+            "sku": {
+                "label": "Thêm SKU",
+                "placeholder": "Nhập mã sku",
+                "validate": "Vui lòng nhập mã SKU",
+                "rule": "SKU chỉ cho phép chữ cái viết hoa, và chữ số"
+            },
+            "quantity": {
+                "label": "Số lượng",
+                "placeholder": "Nhập số lượng",
+                "validate": "Vui lòng nhập số lượng"
+            },
+            "empty": "Không có dữ liệu",
+            "tag": {
+                "label": "Tags",
+                "placeholder": "Chọn tag",
+                "validate": "Vui lòng chọn tag"
+            }
+        }
+    },
+    "product": {
+        "delete": {
+            "des": "Xác nhận xoá sản phẩm này?",
+            "submit": "Xoá",
+            "cancel": "Huỷ"
+        },
+        "clone": {
+            "des": "Xác nhận nhân bản sản phẩm này?",
+            "submit": "Xác nhận",
+            "cancel": "Huỷ"
+        },
+        "create": "Thêm sản phẩm",
+        "filter": {
+            "search": "Tìm kiếm",
+            "name": "Nhập tên sản phẩm",
+            "empty": "Không có dữ liệu",
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái",
+                "true": "Đang hoạt động",
+                "false": "Ngừng hoạt động"
+            },
+            "tag": "Chọn tag",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "name": "Tên",
+            "tag": "Tags",
+            "attach": "Tên đính kèm",
+            "attach-empty": "Không có đính kèm",
+            "attach-value": "Có {count} món đính kèm",
+            "price": "Giá",
+            "quantity": "Số lượng",
+            "state": "Trạng thái",
+            "action": "Thao tác",
+            "double": "Nhân bản",
+            "delete": "Xoá"
+        }
+    },
+    "voucher": {
+        "add": "Thêm mã giảm giá",
+        "filter": {
+            "name": "Tên mã giảm giá",
+            "code": "Mã giảm giá",
+            "time": "Thời gian áp dụng",
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái",
+                "true": "Đang hoạt động",
+                "false": "Ngừng hoạt động"
+            },
+            "empty": "Không có dữ liệu",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "name": "Tên mã giảm giá",
+            "code": "Mã giảm giá",
+            "discount": "Giảm giá",
+            "conditional": "Điều kiện áp dụng",
+            "time": "Thời hạn áp dụng",
+            "used": "Sử dụng",
+            "no": "Không",
+            "to": "đến",
+            "mini": "Tối thiểu",
+            "end": "Kết thúc",
+            "edit": "Chỉnh sửa mã giảm giá",
+            "VND": "Giảm {amount} khi thanh toán trên {minAmount}",
+            "PERCENT": "Giảm {amount} tối đa {maxDiscount}",
+            "payment": "Thanh toán tối thiểu",
+            "start-time": "Thời hạn áp dụng",
+            "end-time": "Thời hạn kết thúc",
+            "save": "Lưu thay đổi"
+        }
+    },
+    "add-voucher": {
+        "add": "Thêm mã giảm giá",
+        "placeholder": "Chọn mã giảm giá phù hợp",
+        "empty": "Không có dữ liệu",
+        "name": {
+            "label": "Tên mã giảm giá",
+            "placeholder": "Nhập tên mã giảm giá",
+            "validate": "Vui lòng nhập tên mã giảm giá"
+        },
+        "code": {
+            "label": "Mã giảm giá",
+            "placeholder": "Nhập mã giảm giá",
+            "validate": "Vui lòng nhập mã giảm giá",
+            "rule": "Không bao gồm kí tự đặc biệt"
+        },
+        "cols": {
+            "name": "Mã giảm giá",
+            "type": "Loại giảm giá",
+            "VND": "Giảm {amount} khi thanh toán trên {minAmount}",
+            "PERCENT": "Giảm {amount} tối đa {maxDiscount}"
+        },
+        "type": {
+            "label": "Loại mã giảm giá",
+            "PERCENT": "Theo %",
+            "VND": "Theo số tiền",
+            "percent": {
+                "max": "Tối đa",
+                "%": "Số %",
+                "%validate": "Bắt buộc",
+                "c": "Nhập số tiền tối đa",
+                "cvalidate": "Bắt buộc"
+            },
+            "vnd": {
+                "placeholder": "Nhập số tiền"
+            }
+        },
+        "min": {
+            "label": "Thanh toán tối thiểu",
+            "placeholder": "Nhập số tiền thanh toán tối thiểu"
+        },
+        "time": {
+            "label": "Thời hạn áp dụng",
+            "validate": "Vui lòng chọn thời hạn"
+        },
+        "min-validate": "Tối thiểu 1,000đ",
+        "submit": "Thêm mã giảm giá"
+    },
+    "create-customer-group": {
+        "name": {
+            "validate": "Vui lòng nhập nhóm khách hàng",
+            "label": "Nhóm khách hàng",
+            "placeholder": "Nhập nhóm khách hàng"
+        },
+        "create": "Thêm",
+        "update": "Cập nhật"
+    },
+    "create-customer": {
+        "add": "Tạo nhóm khách hàng",
+        "create": "Thêm khách hàng",
+        "update": "Cập nhật khách hàng",
+        "name": {
+            "validate": "Vui lòng nhập tên khách hàng",
+            "label": "Tên khách hàng",
+            "placeholder": "Nhập tên khách hàng"
+        },
+        "empty": "Không có dữ liệu",
+        "number": {
+            "validate": "Số điện thoại không đúng định dạng",
+            "label": "Số điện thoại",
+            "placeholder": "Nhập số điện thoại"
+        },
+        "email": {
+            "validate": "Email không đúng định dạng",
+            "label": "Email",
+            "placeholder": "Nhập email"
+        },
+        "address": {
+            "label": "Địa chỉ",
+            "placeholder": "Nhập địa chỉ"
+        },
+        "group": {
+            "label": "Nhóm khách hàng",
+            "placeholder": "Chọn nhóm khách hàng"
+        },
+        "qr": "Tạo mã QRcode tương ứng"
+    },
+    "image-crop-dialog": {
+        "title": "Cắt ảnh",
+        "cancel": "Huỷ",
+        "confirm": "Xác nhận",
+        "processing": "Đang xử lý..."
+    },
+    "shop-update": {
+        "create": "Tạo PayME Shop",
+        "addtional": {
+            "add": "Thêm thông tin",
+            "update": "Cập nhật thông tin",
+            "delete": "Xoá",
+            "validate": "Vui lòng nhập thông tin",
+            "placeholder": "Nhập thông tin",
+            "add-btn": "Thêm",
+            "update-btn": "Cập nhật"
+        },
+        "cancel": "Huỷ chỉnh sửa",
+        "cancel-create": "Huỷ tạo shop",
+        "form": {
+            "update-title": "Chỉnh sửa thông tin",
+            "create-title": "Điền thông tin",
+            "name": {
+                "label": "Tên cửa hàng",
+                "placeholder": "Nhập tên cửa hàng",
+                "validate": "Vui lòng nhập tên cửa hàng"
+            },
+            "link": {
+                "label": "Đường dẫn",
+                "placeholder": "Nhập đường dẫn",
+                "validate": "Vui lòng nhập đường dẫn",
+                "rule": "Không bao gồm kí tự đặc biệt, cho phép 0-9, a-z, _, -"
+            },
+            "description": {
+                "label": "Giới thiệu",
+                "placeholder": "Nhập giới thiệu"
+            },
+            "phone": {
+                "label": "Số điện thoại",
+                "placeholder": "Nhập số điện thoại",
+                "validate": "Số điện thoại không hợp lệ"
+            },
+            "address": {
+                "label": "Địa chỉ",
+                "placeholder": "Nhập địa chỉ"
+            },
+            "cover": "Ảnh bìa",
+            "avatar": "Ảnh đại diện",
+            "color": {
+                "label": "Màu nền",
+                "pick": "Chọn màu"
+            },
+            "lang": {
+                "label": "Ngôn ngữ mặc định",
+                "placeholder": "Chọn ngôn ngữ",
+                "vi": "Tiếng việt",
+                "en": "English"
+            },
+            "empty": "Không có dữ liệu",
+            "collect": {
+                "title": "Thu thập thông tin khách hàng",
+                "des": "Thu thập thêm thông tin khách hàng",
+                "tip": "Chọn nếu bạn muốn yêu cầu khách hàng cung cấp thông tin cá nhân để phục vụ việc giao hàng hoặc thực hiện dịch vụ. Bạn cũng có thể chọn thông tin của khách hàng sẵn có hoặc thêm thông tin khách hàng sẵn có.",
+                "options": {
+                    "COLLECT": "Thu thập thông tin khách hàng",
+                    "AVAILABLE": "Chọn khách hàng sẵn có",
+                    "NONE": "Không thu thập"
+                },
+                "yes": {
+                    "add": "Thêm thông tin",
+                    "delete": "Xoá"
+                },
+                "available": {
+                    "validate": "Vui lòng chọn khách hàng",
+
+                    "placeholder": "Chọn hoặc thêm khách hàng mới",
+                    "empty": "Không có dữ liệu",
+                    "cols": {
+                        "name": "Tên khách hàng",
+                        "phone": "Số điện thoại"
+                    },
+                    "add": "Thêm khách hàng",
+                    "empty-phone": "Chưa có SĐT",
+                    "empty-email": "Chưa có email"
+                }
+            },
+            "voucher": {
+                "title": "Kích hoạt sử dụng mã giảm giá",
+                "all": "Toàn bộ mã giảm giá hiện có",
+                "pick": "Chọn mã giảm giá phù hợp"
+            },
+            "submit": "Lưu thay đổi"
+        },
+        "preview": "Xem trước"
+    },
+    "cat_products": {
+        "success": "Cập nhật sản phẩm danh mục thành công",
+        "submit": "Thêm sản phẩm",
+        "name": "Tên danh mục",
+        "type": {
+            "title": "Tìm kiếm sản phẩm theo",
+            "PRODUCT": "Sản phẩm",
+            "TAG": "Tag",
+            "LINK": "Link"
+        },
+        "filter": {
+            "empty": "Không có dữ liệu",
+            "name": {
+                "label": "Tên sản phẩm",
+                "placeholder": "Nhập tên sản phẩm"
+            },
+            "tag": {
+                "label": "Tag",
+                "placeholder": "Chọn tag"
+            },
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "name": "Tên sản phẩm",
+            "tag": "Thẻ sản phẩm",
+            "price": "Giá",
+            "quantity": "Số lượng còn lại"
+        },
+        "link": {
+            "label": "Link",
+            "placeholder": "Nhập link",
+            "validate": "Link không đúng định dạng"
+        }
+    },
+    "stock": {
+        "cate": "Tên danh mục",
+        "filter": {
+            "name": "Tên sản phẩm",
+            "tag": {
+                "label": "Tag",
+                "placeholder": "Chọn tag"
+            },
+            "empty": "Không có dữ liệu",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "name": "Tên sản phẩm",
+            "prod": "Số lượng sản phẩm",
+            "sell": "Số lượng bán"
+        }
+    },
+
+    "categories": {
+        "add": "Thêm danh mục",
+        "save": "Lưu thay đổi",
+        "title": "Danh mục sản phẩm",
+        "edit": "Chỉnh sửa danh mục",
+        "cancel": "Huỷ chỉnh sửa",
+        "delete": "Xoá danh mục",
+        "item": {
+            "update": "Cập nhật kho",
+            "stock": "Kho hàng",
+            "calc": "Đang kiểm tra..."
+        },
+        "add-prod": "Thêm sản phẩm",
+        "cols": {
+            "name": "Tên danh mục",
+            "state": "Trạng thái",
+            "stock": "Kho hàng",
+            "prod": "Sản phẩm",
+            "quantity": "Số lượng",
+            "sell": "Số lượng bán",
+            "action": "Thao tác"
+        },
+        "update-name": {
+            "title": "Cập nhật tên danh mục",
+            "validate": "Vui lòng nhập tên danh mục",
+            "placeholder": "Nhập tên danh mục",
+            "submit": "Cập nhật"
+        },
+        "add-child": {
+            "child": {
+                "title": "Thêm danh mục con",
+                "validate": "Vui lòng nhập tên danh mục",
+                "placeholder": "Nhập tên danh mục con",
+                "submit": "Thêm danh mục"
+            },
+            "no-child": {
+                "title": "Thêm danh mục",
+                "validate": "Vui lòng nhập tên danh mục",
+                "placeholder": "Nhập tên danh mục",
+                "submit": "Thêm danh mục"
+            }
+        },
+        "all": "Hiển thị danh mục <highlight>TẤT CẢ</highlight> tại trang bán hàng"
+    },
+    "payment": {
+        "filter": {
+            "search": "Mã giao dịch",
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái"
+            },
+            "time": "Khoảng thời gian",
+            "empty": "Không có dữ liệu",
+            "submit": "Tìm kiếm"
+        },
+        "header": {
+            "title": "Danh sách giao dịch",
+            "payment": "Tổng thanh toán",
+            "revenue": "Doanh thu"
+        },
+        "cols": {
+            "paymentId": "Mã thanh toán",
+            "orderId": "Mã đơn hàng",
+            "prod": "Sản phẩm",
+            "amount": "Số tiền",
+            "time": "Thời gian thanh toán",
+            "apply": "Áp dụng mã giảm",
+            "state": "Trạng thái"
+        }
+    },
+    "shop": {
+        "create": "Tạo PayME Shop",
+        "edit-url": {
+            "placeholder": "Nhập đường dẫn link",
+            "validate": "Sử dụng a-z, 0-9,-,_. Độ dài tối thiểu 1 ký tự, tối đa 60 ký tự",
+            "submit": "Lưu thay đổi",
+            "checking": "Đang kiểm tra...",
+            "updating": "Đang cập nhật"
+        },
+        "info": {
+            "edit-shop": "Chỉnh sửa",
+            "share": "Chia sẻ",
+            "sharing": "Chia sẻ PayME Shop",
+            "link": "Đường link",
+            "state": "Trạng thái",
+            "title": "Thông tin tạo",
+            "createBy": "Người tạo",
+            "time": "Thời gian tạo",
+            "active": "Đang hoạt động",
+            "inactive": "Ngừng hoạt động",
+            "edit": "Chỉnh sửa đường dẫn link"
+        },
+        "filter": {
+            "empty": "Không có dữ liệu",
+            "time": "Khoảng thời gian",
+            "name": "Tên cửa hàng",
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái",
+                "true": "Đang hoạt động",
+                "false": "Ngừng hoạt động"
+            },
+            "submit": "Tìm kiếm"
+        },
+        "share": {
+            "address": "Địa chỉ trang đặt hàng",
+            "qr": "Mã QR để quét đặt hàng",
+            "down": "Tải mã QR"
+        },
+        "cols": {
+            "send": "Gửi",
+            "time": "Thời gian tạo",
+            "name": "Tên cửa hàng",
+            "web": "Website cửa hàng",
+            "total": "Tổng doanh thu",
+            "prod": "Mặt hàng",
+            "share": "Chia sẻ",
+            "state": "Trạng thái",
+            "sharing": "Chia sẻ PayME Shop"
+        },
+        "navs": {
+            "pm-shop": "PayME Shop",
+            "vouchers": "Mã giảm giá",
+            "products": "Kho sản phẩm"
+        }
+    },
+    "upload-mutiple": {
+        "add": "Tải file",
+        "validate": "Vui lòng kiểm tra định dạng hoặc giới hạn của file (<{size}MB)"
+    },
+    "claim": {
+        "update": {
+            "btn": "Cập nhật",
+            "tip": "Hỗ trợ *png, *jpg, *pdf, ... không quá 20MB",
+            "user": {
+                "title": "THÔNG TIN NGƯỜI MUA HÀNG",
+                "name": {
+                    "label": "Tên người mua hàng",
+                    "placeholder": "Nhập tên người mua hàng",
+                    "validate": "Vui lòng nhập tên người mua hàng"
+                },
+                "phone": {
+                    "label": "Số điện thoại",
+                    "placeholder": "Nhập số điện thoại",
+                    "validate": "Vui lòng kiểm tra định dạng"
+                },
+                "address": {
+                    "label": "Địa chỉ",
+                    "placeholder": "Nhập địa chỉ"
+                }
+            },
+            "order": {
+                "title": "THÔNG TIN ĐƠN HÀNG",
+                "contract": "Hợp đồng",
+                "shipping": "Giấy tờ giao hàng",
+                "bill": "Hóa đơn bán hàng"
+            },
+            "note": {
+                "label": "Ghi chú",
+                "placeholder": "Nhập ghi chú"
+            },
+            "submit": "Cập nhật thông tin"
+        },
+        "filter": {
+            "empty": "Không có dữ liệu",
+            "time": "Khoảng thời gian",
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái"
+            },
+            "method": {
+                "label": "Phương thức thanh toán",
+                "placeholder": "Chọn phương thức thanh toán"
+            },
+            "id": "Mã đơn hàng",
+            "submit": "Tìm kiếm"
+        },
+        "state": {
+            "PENDING": "Cần bổ sung",
+            "PENDING_APPROVAL": "Chờ duyệt",
+            "CLAIMED": "Hoàn tất",
+            "REJECTED": "Từ chối",
+            "REFUNDED": "Đã hoàn tiền"
+        },
+        "cols": {
+            "submit": "Cập nhật thông tin",
+            "transfer": "Thông tin chuyển khoản",
+            "detail": "Xem chi tiết",
+            "time": "Thời gian tạo",
+            "orderId": "Mã đơn hàng",
+            "amount": "Số tiền",
+            "method": "Phương thức thanh toán",
+            "state": "Trạng thái",
+            "update": "Cập nhật thông tin"
+        }
+    },
+    "dispute": {
+        "process-type": {
+            "MATCH_ORDER": "Khớp giao dịch gốc",
+            "TOPUP": "Nạp tiền vào số dư tài khoản",
+            "CREATE_ORDER": "Tạo giao dịch mới",
+            "REFUND": "Hoàn tiền",
+            "MATCH_AVAILABLE_ORDER": "Khớp với giao dịch có sẵn khác"
+        },
+        "detail": {
+            "result": {
+                "TOPUP": "Cộng tiền thành công vào số dư tài khoản nhận số tiền {amount} với mã giao dịch {payCode}",
+                "MATCH_ORDER": "Xác nhận số tiền {amount} này cho mã thanh toán {payCode}",
+                "CREATE_ORDER": "Xác nhận số tiền {amount} này với mã thanh toán mới {payCode}",
+                "REFUND": "Bạn đã hoàn thành công số tiền {amount}",
+                "MATCH_AVAILABLE_ORDER": "Xác nhận số tiền {amount} này cho mã thanh toán {payCode}"
+            },
+            "message": {
+                "TOPUP": "Bạn chắc chắn muốn xác nhận số tiền {amount} vào số dư tài khoản",
+                "MATCH_ORDER": "Bạn chắc chắn muốn xác nhận số tiền {amount} cho mã thanh toán {payCode}",
+                "CREATE_ORDER": "Bạn chắc chắn muốn tạo giao dịch mới để ghi nhận số tiền {amount}",
+                "REFUND": "Bạn có chắc muốn hoàn số tiền này đến tài khoản đã thanh toán",
+                "MATCH_AVAILABLE_ORDER": "Bạn chắc chắn muốn xác nhận số tiền {amount} cho mã thanh toán {payCode}"
+            },
+            "proccessed": {
+                "title": "Nội dung xử lý",
+                "benificiary": {
+                    "title": "Tài khoản nhận",
+                    "name": "Tên người nhận",
+                    "number": "Số tài khoản",
+                    "bank": "Ngân hàng"
+                },
+                "note": "Ghi chú",
+                "refund": "Phí hoàn tiền",
+                "close": "Đóng"
+            },
+            "processing": {
+                "title": "Bạn muốn xử lý giao dịch này như thế nào?",
+                "validate": "Vui lòng nhập từ 8 - 32 ký tự không dấu và không có ký tự đặc biệt",
+                "partnerTrans": {
+                    "label": "Mã GD MC (Không bắt buộc)",
+                    "placeholder": "Nhập Mã GD MC"
+                },
+                "paymentId": {
+                    "label": "Mã thanh toán cần khớp (Bắt buộc)",
+                    "placeholder": "Nhập mã thanh toán"
+                },
+                "note": {
+                    "label": "Ghi chú",
+                    "placeholder": "Nhập ghi chú (nếu có)"
+                },
+                "refund": "Bạn có chắc muốn hoàn số tiền này đến tài khoản bên dưới?",
+                "cancel": "Huỷ",
+                "submit": "Xác nhận",
+                "feeRefund": "Phí hoàn"
+            },
+            "type": "Loại vấn đề",
+            "type-result": "Hướng xử lý đã chọn",
+            "benificiary": {
+                "title": "Thông tin chuyển khoản",
+                "name": "Tên người chuyển khoản",
+                "number": "Số tài khoản",
+                "bank": "Ngân hàng",
+                "content": "Nội dung"
+            },
+            "order": {
+                "title": "Thông tin giao dịch",
+                "amount": "Số tiền đã ghi nhận",
+                "amount-order": "Số tiền đơn hàng",
+                "paymentId": "Mã thanh toán",
+                "orderId": "Mã đơn hàng",
+                "mcId": "Mã giao dịch MC"
+            }
+        },
+        "type-of-time": {
+            "paymentAt": "Thời gian giao dịch",
+            "finishedAt": "Thời gian xử lý"
+        },
+        "method": {
+            "VIETQR": "Quét mã QR",
+            "ATM": "ATM",
+            "ALIPAY_DIRECT": "Alipay Offline",
+            "ALIPAY_ECOMMERCE": "Alipay Online"
+        },
+        "state": {
+            "OPEN": "Chờ xử lý",
+            "COMPLETED": "Đã xử lý",
+            "PROCESSING": "Đang xử lý"
+        },
+        "type": {
+            "NOT_MATCH_AMOUNT": "Giao dịch không trùng khớp số tiền",
+            "NOT_MATCH_ORDER": "Không tìm thấy thông tin đơn hàng",
+            "INACTIVE_METHOD": "Chuyển vào phương thức thanh toán đã tắt (scan QR"
+        },
+        "filter": {
+            "time": "Khoảng thời gian",
+            "empty": "Không có dữ liệu",
+            "type-time": {
+                "label": "Loại thời gian",
+                "placeholder": "Chọn loại thời gian"
+            },
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái"
+            },
+            "method": {
+                "label": "Phương thức thanh toán",
+                "placeholder": "Chọn PTTT"
+            },
+            "type-issue": {
+                "label": "Loại vấn đề",
+                "placeholder": "Chọn loại vấn đề"
+            },
+            "amount": "Số tiền",
+            "content": "Nội dung chuyển tiền",
+            "beneficiaryNumber": "Số tài khoản nhận thanh toán",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "transfer": "Thông tin chuyển khoản",
+            "title": "Giao dịch chờ xử lý",
+            "time-trans": "Thời gian giao dịch",
+            "time-process": "Thời gian xử lý",
+            "id": "Mã thanh toán",
+            "createdBy": "Người tạo",
+            "amount": "Số tiền",
+            "method": "PTTT",
+            "type": "Loại vấn đề",
+            "state": "Trạng thái",
+            "detail": "Chi tiết"
+        }
+    },
+    "upload-file-excel": {
+        "drop": "Thả file chuyển tiền định dạng .xls của bạn vào đây hoặc",
+        "dropping": "Thả file vào đây...",
+        "click": "Nhấp vào đây để upload",
+        "down": "Tải file mẫu",
+        "file-already": "File của bạn đã sẵn sàng",
+        "choose-diff": "Chọn file khác"
+    },
+    "vietqr-global": {
+        "acleda": "VietQR Global - ACLEDA",
+        "alipay": "VietQR Global - Alipay",
+        "gln": "VietQR Global - GLN",
+        "itmx": "VietQR Global - ITMX",
+        "kftc": "VietQR Global - KFTC",
+        "lapnet": "VietQR Global - LAPNET",
+        "nets": "VietQR Global - NETS",
+        "tenpay": "VietQR Global - Tenpay",
+        "unionpay": "VietQR Global - UnionPay",
+        "vietqrGlobal": "VietQR Global",
+        "vietqrPay": "VietQR Pay",
+        "ALL": "Tất cả"
+    },
+
+    "transaction": {
+        "transfer": {
+            "number": "Số tài khoản",
+            "card": "Số thẻ",
+            "bank": "Ngân hàng",
+            "name": "Tên tài khoản"
+        },
+        "refunds": {
+            "btn": "Hoàn tiền nhanh",
+            "title": "Lập lệnh hoàn tiền",
+            "list": "Danh sách hoàn tiền",
+            "info": "Thông tin hoàn tiền",
+            "step-1": {
+                "empty": "Vui lòng tải lên file",
+                "des": {
+                    "title": "LƯU Ý",
+                    "1": "Số tiền chuyển tối thiểu 20,000đ/người nhận",
+                    "2": "Một số ngân hàng sẽ nhận tiền vào ngày làm việc kế tiếp nếu họ không hỗ trợ chuyển tiền nhanh 24/7. Chi tiết thông tin dịch vụ hỗ trợ của các ngân hàng nằm trong file Exel mẫu - sheet Bank Name.",
+                    "3": "Với giao dịch trên {amount}/người nhận hoặc giao dịch với những ngân hàng không hỗ trợ chuyển tiền nhanh, bạn vui lòng nhập Chi nhánh ngân hàng vào file Excel mẫu."
+                },
+                "continue": "Tiếp tục",
+                "cancel": "Huỷ"
+            },
+            "step-2": {
+                "sumary": "Tổng số lượng",
+                "valid": "Hợp lệ",
+                "invalid": "Chưa hợp lệ",
+                "cols": {
+                    "name": "Tên tài khoản",
+                    "number": "Số tài khoản",
+                    "bank": "Ngân hàng nhận",
+                    "amount": "Số tiền",
+                    "mcId": "Mã merchant"
+                },
+                "total": "Tổng tiền hoàn",
+                "fee": "Tổng phí hoàn",
+                "back": "Quay lại",
+                "submit": "Hoàn tiền"
+            }
+        },
+        "refund-or-cancel": {
+            "refund": "Hoàn tiền",
+            "cancel": "Huỷ",
+            "cancel-title": "Huỷ thanh toán",
+            "refund-list": {
+                "title": "Chi tiết hoàn tiền",
+                "cols": {
+                    "id": "Mã hoàn tiền",
+                    "time": "Thời gian thanh toán",
+                    "amount": "Số tiền",
+                    "state": "Trạng thái"
+                }
+            },
+            "cancel-dialog": {
+                "title": "Huỷ giao dịch này",
+                "info": "Thông tin tài khoản nhận tiền",
+                "des": "Bạn có chắc muốn hủy giao dịch này?",
+                "submit": "Xác nhận huỷ",
+                "pos": "Bạn vui lòng thao tác hủy giao dịch này trên máy POS"
+            },
+            "refund-dialog": {
+                "title": "Hoàn tiền giao dịch này",
+                "amount": {
+                    "label": "Số tiền hoàn (đ)",
+                    "placeholder": "Nhập số tiền hoàn",
+                    "validate": "Vui lòng nhập số tiền hoàn"
+                },
+                "reason": {
+                    "label": "Nội dung",
+                    "placeholder": "Nhập nội dung",
+                    "validate": "Vui lòng nhập nội dung"
+                },
+                "confirm": "Bạn chắc chắn muốn hoàn số tiền này đến tài khoản bên dưới:",
+                "submit": "Xác nhận hoàn",
+                "cannot-refund": "Không thể thực hiện! Số tiền có thể hoàn là {min}",
+                "invalid": "Số tiền hoàn phải từ {min} đến {max}"
+            }
+        },
+        "payment-detail": {
+            "title": "Mã thanh toán",
+            "time": "Thời gian thanh toán",
+            "state": "Trạng thái",
+            "amount": "Số tiền thanh toán",
+            "method": "Phương thức thanh toán",
+            "content": "Mô tả",
+            "orderId": "Mã đơn hàng",
+            "voucher": "Thông tin đơn hàng",
+            "refund-fee": " Phí hoàn tiền",
+            "refund-tip": "Phí hoàn được trừ vào doanh thu của merchant (hoặc trừ vào số dư nếu doanh thu không đủ)"
+        },
+        "order-detail": {
+            "title": "Mã đơn hàng",
+            "referId": "Mã tham chiếu",
+            "time": "Thời gian tạo",
+            "state": "Trạng thái",
+            "note": "Ghi chú",
+            "type": "Loại đơn hàng",
+            "customer-info": {
+                "title": "Thông tin khách hàng",
+                "name": "Tên khách hàng",
+                "phone": "Số điện thoại",
+                "address": "Địa chỉ giao hàng"
+            },
+            "order-info": {
+                "title": "Thông tin đơn hàng",
+                "prod": "Sản phẩm",
+                "amount": "Số tiền",
+                "total": "Tổng tiền",
+                "link": "Nội dung link",
+                "discount": "Giảm giá"
+            },
+            "payment": {
+                "title": "Thông tin thanh toán",
+                "id": "Mã thanh toán",
+                "time": "Thời gian tạo",
+                "amount": "Số tiền",
+                "state": "Trạng thái"
+            }
+        },
+        "filter": {
+            "time": "Khoảng thời gian",
+            "state": {
+                "label": "Trạng thái",
+                "placeholder": "Chọn trạng thái",
+                "empty": "Không có dữ liệu"
+            },
+            "method": {
+                "label": "Phương thức thanh toán",
+                "placeholder": "Chọn phương thức thanh toán",
+                "empty": "Không có dữ liệu"
+            },
+            "tooltip": "Chỉ cho phép tìm kiếm giao dịch trong 1 ngày",
+            "code": {
+                "label": "Mã",
+                "placeholder": "Mã đơn hàng, merchant, đối soát..."
+            },
+            "description": "Nội dung thanh toán",
+            "amount": "Số tiền",
+            "account": "Số tài khoản nhận thanh toán",
+            "createdBy": {
+                "label": "Người tạo",
+                "placeholder": "Chọn người tạo",
+                "empty": "Không có dữ liệu"
+            },
+            "manager": {
+                "label": "Quản lý",
+                "placeholder": "Chọn quản lý",
+                "empty": "Không có dữ liệu"
+            },
+            "submit": "Tìm kiếm"
+        },
+        "state": {
+            "ALL": "Tất cả",
+            "CREATED": "Mới tạo",
+            "COMPLETED": "Hoàn thành",
+            "PAID": "Thành công",
+            "SUCCEEDED": "Thành công",
+            "PENDING": "Chờ thanh toán",
+            "EXPIRED": "Hết hạn",
+            "CANCELED": "Hủy thanh toán",
+            "CANCELLED": "Hủy thanh toán",
+            "CANCELED_SUCCEEDED": "Thanh toán đã hủy",
+            "FAILED": "Thất bại",
+            "REFUNDED": "Đã hoàn tiền",
+            "REFUNDING": "Đang hoàn tiền",
+            "CONFIRMED": "Đã xác nhận",
+            "DEPOSITED": "Đã gửi tiền",
+            "APPROVED": "Đã duyệt",
+            "REJECTED": "Bị từ chối",
+            "PAUSED": "Tạm ngưng",
+            "ATTEMPTED": "Chờ thanh toán"
+        },
+        "cols": {
+            "transfer": "Thông tin chuyển khoản",
+            "payer": "Thông tin người thanh toán",
+            "time": "Thời gian tạo",
+            "code": "Mã đơn hàng",
+            "ref-code": "Mã tham chiếu",
+            "method-ref-code": "Mã tham chiếu PTTT",
+            "sett-code": "Mã đối soát",
+            "mc-code": "Mã Merchant",
+            "amount": "Số tiền giao dịch",
+            "fee": "Phí",
+            "real-amount": "Số tiền thực nhận",
+            "content": "Nội dung thanh toán",
+            "method": "Phương thức thanh toán",
+            "supplier": "Tổ chức thanh toán",
+            "paymentBy": "Người thanh toán",
+            "createdBy": "Người tạo",
+            "manager": "Quản lý",
+            "customer-code": "Mã khách hàng",
+            "state": "Trạng thái",
+            "reason": "Lý do thất bại",
+            "dispute": "Có giao dịch chờ xử lý"
+        },
+        "navs": {
+            "transactions": "Danh sách giao dịch",
+            "disputes": "Giao dịch chờ xử lý",
+            "claims": "Bổ sung thông tin"
+        }
+    },
+    "receiver": {
+        "delete": {
+            "cancel": "Huỷ",
+            "submit": "Xác nhận"
+        },
+        "upsert": {
+            "btn": "Thêm người nhận",
+            "title-create": "Thêm người nhận",
+            "title-update": "Cập nhật người nhận",
+            "name": {
+                "label": "Tên gợi nhớ",
+                "placeholder": "Nhập tên gợi nhớ",
+                "validate": "Vui lòng nhập tên gợi nhớ"
+            },
+            "group": {
+                "label": "Nhóm",
+                "placeholder": "Chọn nhóm",
+                "validate": "Vui lòng chọn nhóm",
+                "empty": "Không có dữ liệu"
+            },
+            "submit-create": "Lưu",
+            "submit-update": "Cập nhật",
+            "cancel": "Huỷ"
+        },
+        "cols": {
+            "nickname": "Tên gợi nhớ",
+            "group": "Nhóm",
+            "name": "Tên tài khoản",
+            "number": "Số tài khoản",
+            "receiver": "Tài khoản nhận",
+            "trans": "Chuyển tiền",
+            "delete": "Bạn có chắc muốn xoá người này?"
+        },
+        "filter": {
+            "empty": "Không có dữ liệu",
+            "key": {
+                "label": "Từ khoá",
+                "placeholder": "Nhập từ khoá"
+            },
+            "group": {
+                "label": "Nhóm",
+                "placeholder": "Chọn nhóm"
+            },
+            "submit": "Tìm kiếm"
+        }
+    },
+    "bulk-payout": {
+        "detail": {
+            "amount": "Số tiền chuyển",
+            "info": "Thông tin chuyển tiền",
+            "name": "Tên lệnh chuyển tiền",
+            "list": "Danh sách người nhận",
+            "detail": "Xem chi tiết danh sách",
+            "state": "Trạng thái chuyển tiền",
+            "detail-title": "Chi tiết lệnh chuyển tiền",
+            "close": "Đóng",
+            "cols": {
+                "name": "Tên tài khoản",
+                "number": "Số tài khoản",
+                "receiver": "Tài khoản nhận",
+                "amount": "Số tiền",
+                "state": "Trạng thái"
+            }
+        },
+        "create": {
+            "btn": "Tạo lệnh chuyển tiền",
+            "title": "Lập lệnh chuyển tiền",
+            "list": "Danh sách chuyển tiền",
+            "info": "Thông tin chuyển tiền",
+            "step-1": {
+                "empty": "Vui lòng tải lên file",
+                "des": {
+                    "title": "LƯU Ý",
+                    "1": "Số tiền chuyển tối thiểu 20,000đ/người nhận",
+                    "2": "Một số ngân hàng sẽ nhận tiền vào ngày làm việc kế tiếp nếu họ không hỗ trợ chuyển tiền nhanh 24/7. Chi tiết thông tin dịch vụ hỗ trợ của các ngân hàng nằm trong file Exel mẫu - sheet Bank Name.",
+                    "3": "Với giao dịch trên {amount}/người nhận hoặc giao dịch với những ngân hàng không hỗ trợ chuyển tiền nhanh, bạn vui lòng nhập Chi nhánh ngân hàng vào file Excel mẫu."
+                },
+                "continue": "Tiếp tục",
+                "cancel": "Huỷ"
+            },
+            "step-2": {
+                "cancel": "Đóng",
+                "name": "Tên lệnh chuyển tiền",
+                "placeholder": "Nhập tên lệnh chuyển tiền",
+                "validate": "Vui lòng nhập tên lệnh chuyển tiền",
+                "sumary": "Tổng số lượng",
+                "valid": "Hợp lệ",
+                "invalid": "Chưa hợp lệ",
+                "detail": "Xem chi tiết danh sách",
+                "detail-title": "Chi tiết lệnh chuyển tiền",
+                "cols": {
+                    "name": "Tên tài khoản",
+                    "number": "Số tài khoản",
+                    "receiver": "Tài khoản nhận",
+                    "amount": "Số tiền",
+                    "list": "Danh sách chuyển tiền",
+                    "index": "STT",
+                    "time": "Thời gian thanh toán",
+                    "transId": "Mã giao dịch",
+                    "partnerTrans": "Mã GD đối tác",
+                    "fee": "Phí",
+                    "content": "Nội dung",
+                    "group": "Nhóm",
+                    "reason": "Lý do",
+                    "state": "Trạng thái",
+                    "total": "Tổng số lượng"
+                },
+                "total": "Tổng số tiền chuyển",
+                "fee": "Tổng số phí chuyển",
+                "back": "Quay lại",
+                "submit": "Khởi tạo lệnh"
+            }
+        },
+        "cols": {
+            "detail": "Chi tiết lệnh chuyển tiền theo lô",
+            "name": "Tên lệnh chuyển tiền",
+            "time": "Thời gian thanh toán",
+            "transId": "Mã giao dịch",
+            "partnerTrans": "Mã GD đối tác",
+            "total": "Tổng tiền chuyển",
+            "fee": "Phí",
+            "spentAmount": "Số tiền thực chi",
+            "receiver": "Số người nhận",
+            "state": "Trạng thái"
+        }
+    },
+    "payout": {
+        "dialog-success": {
+            "close": "Đóng",
+            "detail": "Xem chi tiết",
+            "title": "Chi tiết lệnh chuyển tiền"
+        },
+        "detail": {
+            "title": "Chi tiết lệnh chuyển tiền",
+            "destination": "Chuyển tiền đến",
+            "info": "Thông tin chi tiết",
+            "amount": "Số tiền chuyển",
+            "content": "Nội dung chuyển khoản",
+            "status": "Trạng thái chuyển tiền",
+            "close": "Đóng",
+            "status-section": {
+                "approve": "Lệnh chuyển tiền đã được duyệt",
+                "by": "bởi",
+                "auto": "Tự động",
+                "pending": "Lệnh chuyển tiền đang chờ duyệt",
+                "review": "Lệnh chuyển tiền đang chờ chuyển",
+                "when": "lúc",
+                "failed": "Lệnh chuyển tiền thất bại",
+                "canceled": "Lệnh chuyển tiền đã bị từ chối bởi"
+            },
+            "print": "In phiếu chuyển tiền"
+        },
+        "create": {
+            "title": "Tạo lệnh chuyển tiền",
+            "detail": "Chi tiết lệnh chuyển tiền",
+            "cancel": "Huỷ",
+            "submit": "Khởi tạo",
+            "amount": {
+                "label": "Số tiền",
+                "placeholder": "Nhập số tiền",
+                "validate": "Vui lòng nhập số tiền"
+            },
+            "content": {
+                "label": "Nội dung",
+                "placeholder": "Nhập nội dung chuyển tiền",
+                "validate": "Vui lòng nhập nội dung chuyển tiền"
+            },
+            "destination": {
+                "label": "Tài khoản nhận",
+                "bank": "Ngân hàng",
+                "saved": "Danh sách đã lưu",
+                "saved-placeholder": "Chọn tài khoản",
+                "empty": "Không có dữ liệu",
+                "search": "Tìm tài khoản"
+            },
+            "save": "Lưu thông tin",
+
+            "dialog-account-failed": {
+                "title": "Không thể xác thực tài khoản ngân hàng",
+                "des": "Hệ thống không thể xác thực thông tin tài khoản ngân hàng nhận tại thời điểm này. Vui lòng thử lại sau.",
+                "retry": "Thử lại",
+                "manual": "Chuyển tiền thường"
+            }
+        },
+        "filter": {
+            "keyword": "Tìm kiếm",
+            "keyword-placeholder": "Nhập từ khoá",
+            "time": "Khoảng thời gian",
+            "time-placeholder": "Chọn khoảng thời gian",
+            "status": "Trạng thái",
+            "status-placeholder": "Chọn trạng thái",
+            "empty": "Không có dữ liệu",
+            "submit": "Tìm kiếm"
+        },
+        "cols": {
+            "createdAt": "Ngày tạo",
+            "trans": "Mã giao dịch",
+            "partner": "Mã GD đối tác",
+            "createdBy": "Người tạo",
+            "amount": "Số tiền chuyển",
+            "content": "Nội dung",
+            "fee": "Phí",
+            "spentAmount": "Số tiền thực chi",
+            "name": "Tên tài khoản",
+            "number": "Số tài khoản",
+            "receiver": "Tài khoản nhận",
+            "state": "Trạng thái",
+            "detail": "Chi tiết lệnh chuyển tiền",
+            "state-result": "Trạng thái duyệt",
+            "success": "Thành công",
+            "failed": "Thất bại",
+            "list": "Danh sách người nhận"
+        },
+        "state": {
+            "ALL": "Tất cả",
+            "PENDING": "Chờ duyệt",
+            "REVIEW": "Chờ chuyển",
+            "SUCCEEDED": "Hoàn tất",
+            "APPROVED": "Đang chuyển",
+            "FAILED": "Thất bại",
+            "CANCELED": "Từ chối"
+        },
+        "navs": {
+            "payout": "Chuyển tiền",
+            "bulk": "Chuyển tiền theo lô",
+            "receiver": "Quản lý người nhận"
+        },
+        "approve-modal": {
+            "not-enough": "Số dư không đủ",
+            "btn": "Duyệt nhanh",
+            "detail": "Chi tiết lệnh chuyển tiền",
+            "title": "Chọn danh sách các lệnh cần duyệt",
+            "col": {
+                "name": "Tên tài khoản",
+                "number": "Số tài khoản",
+                "receiver": "Tài khoản nhận",
+                "amount": "Số tiền chuyển",
+                "status": "Trạng thái"
+            },
+            "approve": "Duyệt lệnh chuyển tiền",
+            "balance": "Số dư khả dụng",
+            "fee": "Phí",
+            "total": "Tổng tiền",
+            "submit": "Duyệt lệnh",
+            "reject": "Từ chối",
+            "close": "Đóng",
+            "on-cancel": {
+                "message": "Bạn có chắc muốn từ chối duyệt lệnh",
+                "no": "Không",
+                "yes": "Từ chối duyệt"
+            }
+        }
+    },
+    "confirm-pass-dialog": {
+        "title": "Xác nhận mật khẩu",
+        "des": "Nhập mật khẩu để xác nhận",
+        "placeholder": "Nhập mật khẩu",
+        "validate": "Vui lòng nhập mật khẩu",
+        "submit": "Xác nhận"
+    },
+    "confirm-soft-otp-dialog": {
+        "title": "Xác thực Soft OTP",
+        "des": "Nhập mã Soft OTP",
+        "validate": "Vui lòng nhập mã OTP",
+        "submit": "Xác nhận"
+    },
+    "confirm-otp-dialog": {
+        "title": "Xác thực OTP",
+        "des": "Nhập mã OTP mà chúng tôi vừa gửi",
+        "validate": "Nhập mã OTP mà chúng tôi vừa gửi",
+        "submit": "Xác nhận",
+        "resend": "Gửi lại OTP"
+    },
+    "add-bank": {
+        "detecting": "Detecting...",
+        "404": "Không tìm thấy tài khoản",
+        "title": "Liên kết tài khoản ngân hàng",
+        "number": {
+            "label": "Số tài khoản",
+            "placeholder": "Nhập số tài khoản",
+            "validate": "Vui lòng nhập số số tài khoản"
+        },
+        "bank": {
+            "label": "Chọn ngân hàng",
+            "placeholder": "Chọn ngân hàng",
+            "validate": "Vui lòng chọn ngân hàng",
+            "empty": "Không tìm thấy ngân hàng"
+        },
+        "branch": {
+            "label": "Chi nhánh ngân hàng",
+            "placeholder": "Chọn chi nhánh",
+            "validate": "Vui lòng chọn chi nhánh ngân hàng",
+            "empty": "Không tìm thấy chi nhánh ngân hàng"
+        },
+        "accountName": {
+            "label": "Tên tài khoản",
+            "placeholder": "Tên tài khoản",
+            "validate": "Không tìm thấy tên tài khoản",
+            "invalid": "Số tài khoản không hợp lệ"
+        }
+    },
+    "copy": {
+        "copy": "Sao chép",
+        "copied": "Đã sao chép"
+    },
+    "balance": {
+        "title": "Quản lý số dư",
+        "wallet": "Số dư hiện có",
+        "deposit": {
+            "action": "Nạp tiền",
+            "title": "Vui lòng chuyển số tiền mà bạn muốn nạp.",
+            "number": "Số tài khoản",
+            "name": "Tên tài khoản",
+            "copy": "Sao chép thông tin chuyển khoản",
+            "success": "Sao chép thông tin chuyển khoản thành công!"
+        },
+        "withdraw": {
+            "action": "Rút tiền",
+            "withdraw": {
+                "label": "Số tiền rút",
+                "placeholder": "Nhập số tiền rút",
+                "validate": "Vui lòng nhập số tiền rút",
+                "validateDes": "Vui lòng chọn nơi rút tiền",
+                "destination": "Chọn nơi rút về",
+                "edit": "Chỉnh sửa",
+                "done": "Hoàn thành",
+                "delete-success": "Xoá liên kết tài khoản ngân hàng thành công",
+                "add": "Thêm tài khoản mới",
+                "submit": "Xác nhận rút",
+                "auto": "Rút tiền tự động",
+                "min": "Số tiền rút phải tối thiểu",
+                "autoDes": "Rút tiền tự động chỉ được áp dụng cho giao dịch đã được đối soát. Số tiền tối thiểu để rút tự động là 300,000đ (khi rút về ngân hàng) và 10,000đ (khi rút về Ví PayME)."
+            },
+            "auto": {
+                "title": "Chọn tài khoản rút tiền tự động",
+                "validate": "Vui lòng chọn tài khoản",
+                "submit": "Kích hoạt",
+                "success": "Kích hoạt tài khoản rút tự động thành công"
+            }
+        },
+        "histories": {
+            "title": "Lịch sử giao dịch",
+            "columns": {
+                "time": "Thời gian",
+                "transId": "Mã giao dịch",
+                "transType": "Loại giao dịch",
+                "amount": "Số tiền",
+                "balance": "Số dư",
+                "content": "Nội dung"
+            },
+            "filter": {
+                "time": "Khoảng thời gian",
+                "trans-type": "Loại giao dịch",
+                "trans-type-placeholder": "Chọn loại giao dịch",
+                "trans": "Mã giao dịch",
+                "trans-placeholder": "Nhập mã giao dịch",
+                "submit": "Tìm kiếm",
+                "empty": "Không có dữ liệu"
+            }
+        }
+    },
+    "dashboard": {
+        "revenue": {
+            "title": "Doanh thu hôm nay",
+            "trans": "giao dịch"
+        },
+        "totalRevenue": {
+            "title": "Tổng doanh thu",
+            "trans": "giao dịch"
+        },
+        "stat": {
+            "search": "Tìm kiếm",
+            "method": "Thống kê giao dịch theo phương thức",
+            "trans": "Thống kê theo thời gian giao dịch",
+            "day": "Ngày",
+            "revenue": "Doanh thu"
+        }
+    },
+    "notification": {
+        "title": "Thông báo",
+        "mark": "Đánh dấu đã xem",
+        "empty": "Không có thông báo"
+    },
+    "system-state": {
+        "ORDER": "Đơn hàng",
+        "DISPUTE": "Giao dịch chờ xử lý",
+        "PAYOUT": "Chuyển tiền",
+        "PAYOUTBULK": "Chuyển tiền theo lô",
+        "LINK": "PayME Link",
+        "PAGE": "PayME Page",
+        "TOPUP": "Nạp tiền",
+        "WITHDRAW": "Rút tiền",
+        "REFUND": "Hoàn tiền",
+        "DEPOSIT": "Cộng tiền",
+        "DEDUCT": "Trừ tiền",
+        "SMS": "Thanh toán SMS/Email",
+        "CROSSCHECK": "Đối soát",
+        "CROSS_CHECK": "Đối soát",
+        "POBO": "Chuyển tiền",
+        "POBO_BULK": "Chuyển tiền theo lô",
+        "BUY_EMAIL": "Mua gói sms/email",
+        "BO": "Cộng / trừ tiền hệ thống",
+        "ADD_MONEY": "Cộng tiền",
+        "MINUS_MONEY": "Trừ tiền",
+        "SALARY_ADVANCE": "Ứng lương"
+    },
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "balance": "Quản lý số dư",
+        "payment": "Nhận thanh toán",
+        "shop": "PayME Shop",
+        "link": "PayME Link",
+        "qr": "Mã QR",
+        "transfer": "Chuyển tiền/Thanh toán",
+        "payout": "Payout",
+        "trans-manage": "Quản lý giao dịch",
+        "trans-list": "Danh sách giao dịch",
+        "customer": "Khách hàng",
+        "sett": "Đối soát",
+        "stat": "Thống kê",
+        "email": "Email/SMS",
+        "setting": "Cài đặt"
+    },
+    "header-nav": {
+        "info": "Thông tin tài khoản",
+        "change-pass": "Đổi mật khẩu",
+        "support": "Gửi thông tin hỗ trợ",
+        "logout": "Đăng xuất"
+    },
+    "auth-footer": {
+        "contact": "Liên hệ",
+        "policy": "Chính sách và điều khoản sử dụng"
+    },
+    "register": {
+        "verify-title": "Xác thực số điện thoại của bạn",
+        "captcha": "Thiếu thông tin captcha!",
+        "verify": {
+            "label": "Mã xác nhận",
+            "placeholder": "Nhập mã xác nhận gồm 6 số",
+            "validate": "Vui lòng nhập mã xác nhận",
+            "tip": "Không nhận được mã?",
+            "resend": "Gửi lại",
+            "submit": "Xác thực số điện thoại"
+        },
+
+        "seo": {
+            "1": "Đăng ký tức thì",
+            "2": "Tích hợp với các API đơn giản hoặc sử dụng cổng thanh toán mà không cần tích hợp kỹ thuật.",
+            "3": "Sử dụng được cho tất cả mô hình kinh doanh",
+            "4": "Thương mại điện tử, phí thành viên, các phần mềm quản lý, giao dịch P2P,... tất cả nằm trong một nền tảng duy nhất.",
+            "5": "Phù hợp cho mọi doanh nghiệp",
+            "6": "PayME được tin tưởng bởi các công ty khởi nghiệp tham vọng và các doanh nghiệp ở mọi quy mô."
+        },
+        "form": {
+            "title": "Tạo tài khoản PayME Merchant",
+            "id": {
+                "label": "ID tài khoản",
+                "placeholder": "Nhập số điện thoại",
+                "validate": "Vui lòng nhập số điện thoại",
+                "rule": "Số điện thoại không đúng định dạng"
+            },
+            "pass": {
+                "label": "Mật khẩu",
+                "placeholder": "Nhập mật khẩu",
+                "validate": "Mật khẩu phải từ 8 - 20 ký tự",
+                "rule": "Mật khẩu phải chứa ít nhất một ký tự số, ký tự đặc biệt và viết hoa"
+            },
+            "policy-term": "Bằng cách đăng ký, bạn đồng ý với <policy>Chính sách bảo mật</policy> và <term>Điều khoản sử dụng</term> của chúng tôi",
+            "submit": "Tạo tài khoản",
+            "login": {
+                "already": "Bạn đã có tài khoản ?",
+                "log": "Đăng nhập"
+            }
+        }
+    },
+    "reset-pass": {
+        "title": "Đặt lại mật khẩu của bạn",
+        "pass": {
+            "label": "Mật khẩu mới",
+            "placeholder": "Nhập mật khẩu mới",
+            "validate": "Mật khẩu phải từ 8 - 20 ký tự",
+            "rule": "Mật khẩu phải chứa ít nhất một ký tự số, ký tự đặc biệt và viết hoa"
+        },
+        "back": "Quay lại đăng nhập",
+        "confirm": {
+            "label": "Nhập lại mật khẩu",
+            "placeholder": "Nhập lại mật khẩu",
+            "validate": "Vui lòng nhập lại mật khẩu",
+            "match": "Mật khẩu không khớp"
+        },
+        "submit": "Tiếp tục",
+        "success": "Mật khẩu của bạn đã được thay đổi thành công",
+        "login": "Tiếp tục đăng nhập"
+    },
+    "forgot-password": {
+        "reset": "Đặt lại mật khẩu PayME của bạn",
+        "verify": "Xác thực",
+        "send": {
+            "title": "Đặt lại mật khẩu của bạn",
+            "des": "Nhập địa chỉ email/số điện thoại liên kết với tài khoản của bạn và chúng tôi sẽ gửi một đường dẫn để bạn đặt lại mật khẩu.",
+            "label": "ID tài khoản",
+            "placeholder": "Nhập ID tài khoản",
+            "ID": "Email hoặc số điện thoại không đúng định dạng",
+            "validate": "Vui lòng nhập ID tài khoản",
+            "submit": "Tiếp tục",
+            "back": "Quay lại đăng nhập"
+        },
+        "confirm": {
+            "des": "Mã xác nhận đã được gửi đến ******{ username }. Vui lòng nhập mã xác nhận gồm 6 chữ số để đặt lại mật khẩu của bạn.",
+            "label": "Mã xác nhận",
+            "placeholder": "Nhập mã xác nhận",
+            "validate": "Mã xác nhận phải 6 ký tự",
+            "submit": "Xác nhận"
+        }
+    },
+    "login": {
+        "change-pass": "Đổi mật khẩu",
+        "captcha": "Thiếu thông tin captcha!",
+        "title": "Đăng nhập tài khoản của bạn",
+        "id": {
+            "label": "Tên tài khoản",
+            "placeholder": "Email / Số điện thoại / Tên tài khoản",
+            "validate": "Vui lòng nhập tên tài khoản"
+        },
+        "pass": {
+            "label": "Mật khẩu",
+            "placeholder": "Nhập mật khẩu",
+            "validate": "Vui lòng nhập mật khẩu"
+        },
+        "login": "Đăng nhập",
+        "forgot": "Quên mật khẩu",
+        "new": "Bạn chưa có tài khoản?",
+        "register": "Đăng ký"
+    },
+    "change-password": {
+        "title": "Đổi mật khẩu",
+        "pass": {
+            "label": "Mật khẩu hiện tại",
+            "placeholder": "Nhập mật khẩu hiện tại",
+            "validate": "Vui lòng nhập mật khẩu hiện tại"
+        },
+        "new": {
+            "label": "Mật khẩu mới",
+            "placeholder": "Nhập mật khẩu mới",
+            "min": "Mật khẩu phải ít nhất 8 ký tự",
+            "rule": "Mật khẩu phải chứa ít nhất một ký tự số, ký tự đặc biệt và viết hoa"
+        }
+    },
+    "group": {
+        "CUSTOMER": "Khách hàng",
+        "EMPLOYEE": "Nhân viên",
+        "PARTNER": "Đối tác",
+        "FRIEND": "Bạn bè",
+        "FAMILY": "Gia đình",
+        "OTHER": "Khác",
+        "DEFAULT": "",
+        "": ""
+    },
+    "table-data-component": {
+        "rows": "Số dòng trên trang",
+        "of": "của",
+        "all": "Tất cả",
+        "display": "Tuỳ chọn hiện thị",
+        "list": "Hiển thị dạng danh sách",
+        "table": "Hiển thị dạng lưới",
+        "fetching": "Đang cập nhật...",
+        "empty": "Không có dữ liệu"
+    },
+    "common": {
+        "loading": "Đang tải dữ liệu...",
+        "pm-wallet": "Ví PayME",
+        "mc-wallet": "Ví Merchant",
+        "confirm": "Xác nhận",
+        "empty": "Không có dữ liệu",
+        "filter": "Lọc",
+        "hide": "Ẩn lọc",
+        "export": "Xuất file",
+        "clear": "Xoá",
+        "balance": "Số dư",
+        "auth-invalid": "Loại xác thức không hợp lệ",
+        "active": "Đang hoạt động",
+        "inactive": "Ngừng hoạt động",
+        "pick-date": "Chọn ngày",
+        "resend": "Không nhận được mã?",
+        "resend-btn": "Gửi lại"
+    },
+    "format-time": "HH:mm DD/MM/YYYY",
+    "time": {
+        "date": "DD/MM/YYYY",
+        "time": "HH:mm",
+        "dateTime": "HH:mm DD/MM/YYYY",
+        "dateTimeFull": "HH:mm:ss DD/MM/YYYY",
+        "monthYear": "MM/YYYY"
+    }
+}

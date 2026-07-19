@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'tw-shimmer';
+
+@plugin "@tailwindcss/typography";
+
+@import './data-table-component.css';
+@import './shadcn.css';
+
+@variant dark (false);
+
+:root {
+    --primary: #00be00;
+    --secondary: #ff204e;
+    --primary-pastel: #efffee;
+    /* #d8ffd7 #ff204e */
+    --input: #e5e7eb;
+}
+
+@theme inline {
+    --color-primary: var(--primary);
+    --color-primary-pastel: var(--primary-pastel);
+    --color-secondary: var(--secondary);
+    --color-input: var(--input);
+}
+
+/* * {
+    border: 1px solid red;
+} */

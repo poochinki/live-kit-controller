@@ -1,0 +1,9 @@
+{
+    "time": {
+        "date": "MM/DD/YYYY",
+        "time": "h:mm A",
+        "dateTime": "MM/DD/YYYY h:mm A",
+        "dateTimeFull": "MM/DD/YYYY h:mm:ss A",
+        "monthYear": "MM/YYYY"
+    }
+}
